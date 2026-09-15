@@ -16,13 +16,13 @@ Samples collected 122021 (pre-SCTLD outbreak) and 072023 (post-SCTLD outbreak) f
 ## Workflow
 
 ### QC
-DR_QC.ipynb \
+DR_QC.ipynb 
 - Trim Galore
 - host removal (using bowtie2)
 - symbiont removal (fastq-screen)
 
 ### Assembly
-DR_Assembly.ipnyb \
+DR_Assembly.ipnyb 
 - Re-pair reads 
 - Co-assemble by coral species - concatenated F and R reads for each species and assembled with megahit
 - Map sample reads on to assembly (bowtie2)
