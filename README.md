@@ -38,7 +38,7 @@ DR_bracken_abundances_to_ASV.ipnyb - normalizing ASV abundances \
 DR_phyloseq.ipnyb - phyloseq, DESeq, LDA enrichment \
 DR_taxa_plots.ipnyb - ASV abundance plots \
 DR_taxa_plots_family.ipnyb - ASV abundance plots at family level \
-DR_viral_content: genomad
+DR_viral_content: Genomad
 
 **Functional** \
 DR_humann_analysis.ipnyb - HUMaN3 analysis to explore pathways and gene families
@@ -47,4 +47,4 @@ DR_functional_visualization.ipnyb - ordination and heatmaps
 
 ### Analyzing MAGs
 - Annotation tools: Bakta, eggnog, RAST, prokka (uses Bakta annotation) 
-- Functional pathways: GhostKOALA, Kegg Decoder, COGclassifier
+- Functional pathways: GhostKOALA, Kegg Decoder, COGclassifier, Metabolic
