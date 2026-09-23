@@ -1,0 +1,792 @@
+# Pathway	072023_Carolina_2023_Baya_052_DCYL_S9_comb_kraken_filtered_Abundance	072023_Carolina_2023_Baya_053_MCAV_S3_comb_kraken_filtered_Abundance	072023_Carolina_2023_Baya_055_MCAV_S4_comb_kraken_filtered_Abundance	072023_Carolina_2023_Baya_057_SSID_S7_comb_kraken_filtered_Abundance	072023_Carolina_2023_Baya_059_SSID_S8_comb_kraken_filtered_Abundance	072023_Carolina_2023_Baya_061_SSID_S5_comb_kraken_filtered_Abundance	072023_Carolina_2023_Baya_063_SSID_S6_comb_kraken_filtered_Abundance	072023_Carolina_2023_Baya_065_DCYL_S1_comb_kraken_filtered_Abundance	072023_Carolina_2023_Baya_066_DCYL_S2_comb_kraken_filtered_Abundance	122021_Coralina_2021_Baya_001_DCYL_S24_comb_kraken_filtered_Abundance	122021_Coralina_2021_Baya_003_MCAV_S27_comb_kraken_filtered_Abundance	122021_Coralina_2021_Baya_005_MCAV_S28_comb_kraken_filtered_Abundance	122021_Coralina_2021_Baya_007_MCAV_S29_comb_kraken_filtered_Abundance	122021_Coralina_2021_Baya_009_DCYL_S25_comb_kraken_filtered_Abundance	122021_Coralina_2021_Baya_010_DCYL_S26_comb_kraken_filtered_Abundance	122021_Coralina_2021_Baya_013_DLAB_S43_comb_kraken_filtered_Abundance	122021_Coralina_2021_Baya_015_DLAB_S44_comb_kraken_filtered_Abundance	122021_Coralina_2021_Baya_017_MCAV_S30_comb_kraken_filtered_Abundance	122021_Coralina_2021_Baya_019_SSID1_S46_comb_kraken_filtered_Abundance	122021_Coralina_2021_Baya_021_SSID2_S36_comb_kraken_filtered_Abundance	122021_Coralina_2021_Baya_023_MCAV_S31_comb_kraken_filtered_Abundance	122021_Coralina_2021_Baya_025_MMEA_S22_comb_kraken_filtered_Abundance	122021_Coralina_2021_Baya_027_PSTR4_S34_comb_kraken_filtered_Abundance	122021_Coralina_2021_Baya_029_MMEA_S23_comb_kraken_filtered_Abundance	122021_Coralina_2021_Baya_031_MMEA_S45_comb_kraken_filtered_Abundance	122021_Coralina_2021_Baya_033_PSTR7_S35_comb_kraken_filtered_Abundance	122021_Coralina_2021_Baya_035_PSTR_S32_comb_kraken_filtered_Abundance	122021_Coralina_2021_Baya_037_PSTR_S33_comb_kraken_filtered_Abundance
+UNINTEGRATED	1586309.6473026266	56808.6126	181554.4789357667	62400.20898	67879.84647	224799.2368450718	522066.2398939180	0	91369.48458	32117.80424	0	30603.39851	15826.12651	0	6364.851246	25302.8671	186124.9022956328	57990.90167	65806.38924	649973.9289497266	0	53829.81039	684031.8914208827	39218.05058	51626.19214	0	142583.8779655969	217580.3585283588
+UNINTEGRATED|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	22933.76711	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+UNINTEGRATED|unclassified	1586309.6473026266	56808.6126	181554.4789357667	62400.20898	67879.84647	224799.2368450718	480477.7704961646	0	91369.48458	32117.80424	0	30603.39851	15826.12651	0	6364.851246	25302.8671	186124.9022956328	57990.90167	65806.38924	649973.9289497266	0	53829.81039	684031.8914208827	39218.05058	51626.19214	0	142583.8779655969	217580.3585283588
+"12DICHLORETHDEG-PWY: 1,2-dichloroethane degradation"	0	0	0	0	0	0	14.78650793	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"12DICHLORETHDEG-PWY: 1,2-dichloroethane degradation|unclassified"	0	0	0	0	0	0	14.78650793	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"14DICHLORBENZDEG-PWY: 1,4-dichlorobenzene degradation"	0	0	0	0	0	0	33.29129929	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"14DICHLORBENZDEG-PWY: 1,4-dichlorobenzene degradation|unclassified"	0	0	0	0	0	0	33.29129929	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1CMET2-PWY: folate transformations III (E. coli)	0	0	40.9634516	0	7.543811698	47.45107471	200.9945364	0	19.14005029	0	0	0	0	0	0	0	0	0	17.5254973	0	0	0	0	0	0	0	0	0
+1CMET2-PWY: folate transformations III (E. coli)|unclassified	0	0	40.9634516	0	7.543811698	47.45107471	181.3344103	0	19.14005029	0	0	0	0	0	0	0	0	0	17.5254973	0	0	0	0	0	0	0	0	0
+AEROBACTINSYN-PWY: aerobactin biosynthesis	0	0	0	0	0	0	0	0	47.57023301	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+AEROBACTINSYN-PWY: aerobactin biosynthesis|unclassified	0	0	0	0	0	0	0	0	47.57023301	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ALLANTOINDEG-PWY: superpathway of allantoin degradation in yeast	0	0	0	0	0	0	14.1462949	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ALLANTOINDEG-PWY: superpathway of allantoin degradation in yeast|unclassified	0	0	0	0	0	0	14.1462949	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ANAEROFRUCAT-PWY: homolactic fermentation	0	0	0	0	0	56.75440707	138.7317892	0	18.61240343	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ANAEROFRUCAT-PWY: homolactic fermentation|unclassified	0	0	0	0	0	56.75440707	134.8747176	0	18.61240343	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)	0	0	37.5415469	0	0	88.31100267	261.7369539	0	35.59762662	0	0	0	0	0	0	0	16.22262899	0	0	0	0	0	0	0	0	0	0	0
+ANAGLYCOLYSIS-PWY: glycolysis III (from glucose)|unclassified	0	0	37.5415469	0	0	88.31100267	244.3198962	0	35.59762662	0	0	0	0	0	0	0	16.22262899	0	0	0	0	0	0	0	0	0	0	0
+ARGININE-SYN4-PWY: L-ornithine biosynthesis II	0	0	14.25534118	0	0	9.467684956	135.3835287	0	14.39651309	0	0	0	0	0	0	0	0	0	7.355582554	0	0	0	0	0	0	0	0	0
+ARGININE-SYN4-PWY: L-ornithine biosynthesis II|unclassified	0	0	14.25534118	0	0	9.467684956	134.4533058	0	14.39651309	0	0	0	0	0	0	0	0	0	7.355582554	0	0	0	0	0	0	0	0	0
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)	0	0	58.62384109	6.921321997	0	97.63309303	251.3461611	0	27.29632648	0	0	0	0	0	0	0	20.27046364	0	16.23440816	0	0	0	0	0	0	0	0	0
+ARGSYN-PWY: L-arginine biosynthesis I (via L-ornithine)|unclassified	0	0	58.62384109	6.921321997	0	97.63309303	237.4819065	0	27.29632648	0	0	0	0	0	0	0	20.27046364	0	16.23440816	0	0	0	0	0	0	0	0	0
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)	0	0	51.86842231	6.665619181	0	96.20943747	216.8197596	0	30.06262561	0	0	0	0	0	0	0	0	0	9.5193117	0	0	0	0	0	0	0	0	0
+ARGSYNBSUB-PWY: L-arginine biosynthesis II (acetyl cycle)|unclassified	0	0	51.86842231	6.665619181	0	96.20943747	199.1137845	0	30.06262561	0	0	0	0	0	0	0	0	0	9.5193117	0	0	0	0	0	0	0	0	0
+ARO-PWY: chorismate biosynthesis I	0	0	40.00389213	0	0	64.72415471	227.1438381	0	14.07617279	0	0	0	0	0	0	0	17.45882144	0	12.77244695	0	0	0	0	0	0	0	0	0
+ARO-PWY: chorismate biosynthesis I|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	6.937235696	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ARO-PWY: chorismate biosynthesis I|unclassified	0	0	40.00389213	0	0	64.72415471	217.44148	0	14.07617279	0	0	0	0	0	0	0	17.45882144	0	12.77244695	0	0	0	0	0	0	0	0	0
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis	0	0	51.94949344	0	0	35.09991436	82.99662025	0	16.12011266	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ASPASN-PWY: superpathway of L-aspartate and L-asparagine biosynthesis|unclassified	0	0	51.94949344	0	0	35.09991436	71.66414667	0	16.12011266	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+AST-PWY: L-arginine degradation II (AST pathway)	0	0	14.83871395	0	0	0	5.571495487	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+AST-PWY: L-arginine degradation II (AST pathway)|unclassified	0	0	14.83871395	0	0	0	5.571495487	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+BIOTIN-BIOSYNTHESIS-PWY: biotin biosynthesis I	0	0	34.80823372	0	0	0	32.7522503	0	0	0	0	0	0	0	0	0	12.44838629	0	0	0	0	0	0	0	0	0	0	0
+BIOTIN-BIOSYNTHESIS-PWY: biotin biosynthesis I|unclassified	0	0	34.80823372	0	0	0	32.40870366	0	0	0	0	0	0	0	0	0	12.44838629	0	0	0	0	0	0	0	0	0	0	0
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched chain amino acid biosynthesis	7.960426037	0	120.4041585	19.41221723	17.10987175	132.4670351	460.6963647	0	45.41755062	0	0	0	0	0	0	0	69.05693869	0	37.41352085	0	0	26.01100831	0	0	0	0	0	0
+BRANCHED-CHAIN-AA-SYN-PWY: superpathway of branched chain amino acid biosynthesis|unclassified	7.960426037	0	120.4041585	19.41221723	17.10987175	132.4670351	454.1535476	0	45.41755062	0	0	0	0	0	0	0	69.05693869	0	37.41352085	0	0	26.01100831	0	0	0	0	0	0
+CALVIN-PWY: Calvin-Benson-Bassham cycle	7.434240684	0	75.36239906	0	0	80.90323026	232.5821875	0	31.4794243	16.78981058	0	0	0	0	0	0	0	0	27.01718674	0	0	0	0	0	0	0	0	0
+CALVIN-PWY: Calvin-Benson-Bassham cycle|unclassified	7.434240684	0	75.36239906	0	0	80.90323026	227.2757529	0	31.4794243	16.78981058	0	0	0	0	0	0	0	0	27.01718674	0	0	0	0	0	0	0	0	0
+CATECHOL-ORTHO-CLEAVAGE-PWY: catechol degradation to &beta;-ketoadipate	0	0	0	0	0	0	17.56835819	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5.699661074	0	0	0	0	0	0
+CATECHOL-ORTHO-CLEAVAGE-PWY: catechol degradation to &beta;-ketoadipate|unclassified	0	0	0	0	0	0	17.56835819	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5.699661074	0	0	0	0	0	0
+CENTFERM-PWY: pyruvate fermentation to butanoate	0	0	26.361887	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+CENTFERM-PWY: pyruvate fermentation to butanoate|unclassified	0	0	26.361887	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"CHLOROPHYLL-SYN: 3,8-divinyl-chlorophyllide a biosynthesis I (aerobic, light-dependent)"	0	0	0	0	0	49.01275656	37.41945766	0	24.67470912	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"CHLOROPHYLL-SYN: 3,8-divinyl-chlorophyllide a biosynthesis I (aerobic, light-dependent)|unclassified"	0	0	0	0	0	49.01275656	36.0540074	0	24.67470912	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+CITRULBIO-PWY: L-citrulline biosynthesis	0	0	28.65943995	0	0	48.97173262	130.9013552	0	16.31591855	0	0	0	0	0	0	0	0	0	10.6551821	0	0	0	0	0	0	0	0	0
+CITRULBIO-PWY: L-citrulline biosynthesis|unclassified	0	0	28.65943995	0	0	48.97173262	128.5335078	0	16.31591855	0	0	0	0	0	0	0	0	0	10.6551821	0	0	0	0	0	0	0	0	0
+COA-PWY-1: superpathway of coenzyme A biosynthesis III (mammals)	0	0	25.56519737	0	0	27.94014485	152.8227012	0	0	0	0	0	0	0	0	0	0	0	7.964038963	0	0	0	0	0	0	0	0	0
+COA-PWY-1: superpathway of coenzyme A biosynthesis III (mammals)|unclassified	0	0	25.56519737	0	0	27.94014485	142.1018744	0	0	0	0	0	0	0	0	0	0	0	7.964038963	0	0	0	0	0	0	0	0	0
+COA-PWY: coenzyme A biosynthesis I (prokaryotic)	0	0	56.01361254	0	0	31.73038006	189.2136333	0	23.69387645	6.074834497	0	0	5.612069887	0	0	0	6.046725751	0	8.258337335	0	0	0	0	0	0	0	0	0
+COA-PWY: coenzyme A biosynthesis I (prokaryotic)|unclassified	0	0	56.01361254	0	0	31.73038006	187.336028	0	23.69387645	6.074834497	0	0	5.612069887	0	0	0	6.046725751	0	8.258337335	0	0	0	0	0	0	0	0	0
+COBALSYN-PWY: superpathway of adenosylcobalamin salvage from cobinamide I	0	0	0	0	0	26.54743625	37.7312038	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+COBALSYN-PWY: superpathway of adenosylcobalamin salvage from cobinamide I|unclassified	0	0	0	0	0	26.54743625	34.47246952	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+COLANSYN-PWY: colanic acid building blocks biosynthesis	0	0	25.33522989	0	0	23.17966948	127.1618792	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+COLANSYN-PWY: colanic acid building blocks biosynthesis|unclassified	0	0	25.33522989	0	0	23.17966948	122.9131328	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis	0	0	42.01624032	0	0	55.91613199	232.6774707	0	14.3037956	0	0	0	0	0	0	0	17.06136639	0	13.68398413	0	0	0	0	0	0	0	0	0
+COMPLETE-ARO-PWY: superpathway of aromatic amino acid biosynthesis|unclassified	0	0	42.01624032	0	0	55.91613199	223.8290898	0	14.3037956	0	0	0	0	0	0	0	17.06136639	0	13.68398413	0	0	0	0	0	0	0	0	0
+CRNFORCAT-PWY: creatinine degradation I	0	0	0	0	0	16.44098279	79.06260986	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+CRNFORCAT-PWY: creatinine degradation I|unclassified	0	0	0	0	0	16.44098279	79.06260986	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+DAPLYSINESYN-PWY: L-lysine biosynthesis I	0	0	50.47219241	0	0	41.37746013	199.6220172	0	17.33457987	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+DAPLYSINESYN-PWY: L-lysine biosynthesis I|unclassified	0	0	50.47219241	0	0	41.37746013	189.7034568	0	17.33457987	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+DARABCATK12-PWY: D-arabinose degradation I	0	0	0	0	0	0	5.396878184	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+DARABCATK12-PWY: D-arabinose degradation I|unclassified	0	0	0	0	0	0	5.396878184	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+DENITRIFICATION-PWY: nitrate reduction I (denitrification)	0	0	0	0	0	0	15.29844789	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+DENITRIFICATION-PWY: nitrate reduction I (denitrification)|unclassified	0	0	0	0	0	0	4.846830647	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+DTDPRHAMSYN-PWY: dTDP-&beta;-L-rhamnose biosynthesis	0	0	37.9432543	0	0	91.91629616	142.4862506	0	30.59690206	0	0	0	0	0	0	0	0	0	3.908884096	0	0	0	0	0	0	0	0	0
+DTDPRHAMSYN-PWY: dTDP-&beta;-L-rhamnose biosynthesis|unclassified	0	0	37.9432543	0	0	91.91629616	142.4862506	0	30.59690206	0	0	0	0	0	0	0	0	0	3.908884096	0	0	0	0	0	0	0	0	0
+FAO-PWY: fatty acid &beta;-oxidation I (generic)	0	0	87.64626922	0	0	10.57063332	127.5027075	0	0	0	0	0	0	0	0	0	15.0584991	0	0	0	0	0	0	0	0	0	0	0
+FAO-PWY: fatty acid &beta;-oxidation I (generic)|unclassified	0	0	87.64626922	0	0	10.57063332	127.5027075	0	0	0	0	0	0	0	0	0	15.0584991	0	0	0	0	0	0	0	0	0	0	0
+FASYN-ELONG-PWY: fatty acid elongation -- saturated	0	0	109.4923338	5.49058073	6.538425441	132.1139144	391.3568623	0	42.48715314	0	0	0	0	0	0	0	55.68797432	0	19.39616711	0	0	52.50912171	0	18.60906695	58.07624522	0	0	0
+FASYN-ELONG-PWY: fatty acid elongation -- saturated|unclassified	0	0	109.4923338	5.49058073	6.538425441	132.1139144	388.0977203	0	42.48715314	0	0	0	0	0	0	0	55.68797432	0	19.39616711	0	0	52.50912171	0	18.60906695	58.07624522	0	0	0
+FERMENTATION-PWY: mixed acid fermentation	0	0	95.35425162	0	15.816421	79.98754381	216.3536241	0	35.9989211	0	0	0	0	0	0	0	40.53836426	0	15.66982731	0	0	0	0	0	0	0	0	0
+FERMENTATION-PWY: mixed acid fermentation|unclassified	0	0	95.35425162	0	15.816421	79.98754381	215.1803392	0	35.9989211	0	0	0	0	0	0	0	40.53836426	0	15.66982731	0	0	0	0	0	0	0	0	0
+FUCCAT-PWY: fucose degradation	0	0	7.732584539	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+FUCCAT-PWY: fucose degradation|unclassified	0	0	7.732584539	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GALACTARDEG-PWY: D-galactarate degradation I	0	0	0	0	0	0	6.712545958	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GALACTARDEG-PWY: D-galactarate degradation I|unclassified	0	0	0	0	0	0	6.712545958	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GALACTUROCAT-PWY: D-galacturonate degradation I	0	0	0	0	0	0	25.74661716	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GALACTUROCAT-PWY: D-galacturonate degradation I|unclassified	0	0	0	0	0	0	25.32948828	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GALLATE-DEGRADATION-I-PWY: gallate degradation II	0	0	0	0	0	0	14.68147537	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GALLATE-DEGRADATION-I-PWY: gallate degradation II|unclassified	0	0	0	0	0	0	14.68147537	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GALLATE-DEGRADATION-II-PWY: gallate degradation I	0	0	0	0	0	0	12.84524726	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GALLATE-DEGRADATION-II-PWY: gallate degradation I|unclassified	0	0	0	0	0	0	12.84524726	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"GLCMANNANAUT-PWY: superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation"	0	0	11.0307691	0	0	17.08675853	12.33409925	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"GLCMANNANAUT-PWY: superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation|unclassified"	0	0	11.0307691	0	0	17.08675853	10.67287681	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GLUCARGALACTSUPER-PWY: superpathway of D-glucarate and D-galactarate degradation	0	0	0	0	0	0	6.712545958	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GLUCARGALACTSUPER-PWY: superpathway of D-glucarate and D-galactarate degradation|unclassified	0	0	0	0	0	0	6.712545958	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GLUCONEO-PWY: gluconeogenesis I	0	0	39.69893411	0	0	89.21534662	307.1367896	0	27.27950273	0	0	0	0	0	0	0	17.47943417	0	0	0	0	0	0	0	10.70211468	0	0	0
+GLUCONEO-PWY: gluconeogenesis I|unclassified	0	0	39.69893411	0	0	89.21534662	303.4638977	0	27.27950273	0	0	0	0	0	0	0	17.47943417	0	0	0	0	0	0	0	10.70211468	0	0	0
+GLUCOSE1PMETAB-PWY: glucose and glucose-1-phosphate degradation	0	0	42.35838061	0	0	7.958599974	97.84089406	0	0	0	0	0	0	0	0	2.877585463	0	0	5.614503426	0	0	0	0	0	0	0	0	0
+GLUCOSE1PMETAB-PWY: glucose and glucose-1-phosphate degradation|unclassified	0	0	42.35838061	0	0	7.958599974	88.64110033	0	0	0	0	0	0	0	0	2.877585463	0	0	5.614503426	0	0	0	0	0	0	0	0	0
+GLUCUROCAT-PWY: superpathway of &beta;-D-glucuronosides degradation	0	0	18.40803459	0	0	0	22.37017877	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GLUCUROCAT-PWY: superpathway of &beta;-D-glucuronosides degradation|unclassified	0	0	18.40803459	0	0	0	21.97003968	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GLUDEG-I-PWY: GABA shunt	0	0	0	0	0	12.43298757	67.75597405	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GLUDEG-I-PWY: GABA shunt|unclassified	0	0	0	0	0	12.43298757	67.75597405	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GLUTORN-PWY: L-ornithine biosynthesis I	0	0	32.37646196	6.806322566	5.808108431	46.86248488	156.5017053	0	18.80941396	6.645327516	0	0	0	0	0	0	16.08349934	0	16.4170337	0	0	0	0	0	0	0	0	0
+GLUTORN-PWY: L-ornithine biosynthesis I|unclassified	0	0	32.37646196	6.806322566	5.808108431	46.86248488	143.3802592	0	18.80941396	6.645327516	0	0	0	0	0	0	16.08349934	0	16.4170337	0	0	0	0	0	0	0	0	0
+GLYCOCAT-PWY: glycogen degradation I	0	0	12.78715707	0	0	0	52.40742763	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GLYCOCAT-PWY: glycogen degradation I|unclassified	0	0	12.78715707	0	0	0	49.66233826	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)	0	0	27.81003314	0	0	29.30724905	122.6648566	0	7.343690184	0	0	0	0	0	0	0	12.46433452	0	6.655175324	0	0	0	0	0	0	0	0	0
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	8.87169234	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GLYCOGENSYNTH-PWY: glycogen biosynthesis I (from ADP-D-Glucose)|unclassified	0	0	27.81003314	0	0	29.30724905	111.8159958	0	7.343690184	0	0	0	0	0	0	0	12.46433452	0	6.655175324	0	0	0	0	0	0	0	0	0
+GLYCOL-GLYOXDEG-PWY: superpathway of glycol metabolism and degradation	0	0	0	0	0	0	9.424001532	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GLYCOL-GLYOXDEG-PWY: superpathway of glycol metabolism and degradation|unclassified	0	0	0	0	0	0	9.424001532	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GLYCOLYSIS-E-D: superpathway of glycolysis and the Entner-Doudoroff pathway	0	0	0	0	0	0	167.0204131	0	20.18007446	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GLYCOLYSIS-E-D: superpathway of glycolysis and the Entner-Doudoroff pathway|unclassified	0	0	0	0	0	0	160.5147461	0	20.18007446	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"GLYCOLYSIS-TCA-GLYOX-BYPASS: superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass"	0	0	0	0	0	0	77.79000998	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"GLYCOLYSIS-TCA-GLYOX-BYPASS: superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass|unclassified"	0	0	0	0	0	0	77.46310031	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)	0	0	34.24382026	0	0	87.48320038	280.5908624	0	33.68813561	0	0	0	0	0	0	6.736657614	0	0	0	0	0	0	0	0	0	0	0	0
+GLYCOLYSIS: glycolysis I (from glucose 6-phosphate)|unclassified	0	0	34.24382026	0	0	87.48320038	274.5585721	0	33.68813561	0	0	0	0	0	0	6.736657614	0	0	0	0	0	0	0	0	0	0	0	0
+GLYOXYLATE-BYPASS: glyoxylate cycle	8.376002802	6.58284384	90.9654476	8.444212098	15.45067199	68.38143976	335.5037965	0	6.831973262	8.429756989	0	0	8.101684303	0	0	8.852140809	37.58061051	0	15.56461645	0	0	0	0	0	12.10775932	0	0	0
+GLYOXYLATE-BYPASS: glyoxylate cycle|unclassified	8.376002802	6.58284384	90.9654476	8.444212098	15.45067199	68.38143976	332.5717874	0	6.831973262	8.429756989	0	0	8.101684303	0	0	8.852140809	37.58061051	0	15.56461645	0	0	0	0	0	12.10775932	0	0	0
+"GOLPDLCAT-PWY: superpathway of glycerol degradation to 1,3-propanediol"	0	0	13.98034176	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"GOLPDLCAT-PWY: superpathway of glycerol degradation to 1,3-propanediol|unclassified"	0	0	13.98034176	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+HEME-BIOSYNTHESIS-II-1: heme b biosynthesis V (aerobic)	0	0	25.18753525	11.88932833	9.5759595	107.4818775	287.1356284	0	33.1502228	0	0	0	0	0	0	0	34.48631314	0	0	0	0	0	0	0	0	0	0	0
+HEME-BIOSYNTHESIS-II-1: heme b biosynthesis V (aerobic)|unclassified	0	0	25.18753525	11.88932833	9.5759595	107.4818775	274.0148476	0	33.1502228	0	0	0	0	0	0	0	34.48631314	0	0	0	0	0	0	0	0	0	0	0
+HEME-BIOSYNTHESIS-II: heme b biosynthesis I (aerobic)	0	0	25.18753525	11.88932833	9.5759595	107.4818775	287.1356284	0	33.1502228	0	0	0	0	0	0	0	34.48631314	0	6.427692476	0	0	0	0	0	0	0	0	0
+HEME-BIOSYNTHESIS-II: heme b biosynthesis I (aerobic)|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	7.129132397	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+HEME-BIOSYNTHESIS-II: heme b biosynthesis I (aerobic)|unclassified	0	0	25.18753525	11.88932833	9.5759595	107.4818775	274.0148476	0	33.1502228	0	0	0	0	0	0	0	34.48631314	0	6.427692476	0	0	0	0	0	0	0	0	0
+HEMESYN2-PWY: heme b biosynthesis II (oxygen-independent)	0	0	58.85608129	0	0	19.87369718	112.5203057	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+HEMESYN2-PWY: heme b biosynthesis II (oxygen-independent)|unclassified	0	0	58.85608129	0	0	19.87369718	111.3642697	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+HISDEG-PWY: L-histidine degradation I	8.328606919	0	43.36082113	0	0	4.166126952	121.6006411	0	10.06119776	0	0	0	0	0	0	0	0	0	5.611090514	0	0	0	0	0	0	0	0	0
+HISDEG-PWY: L-histidine degradation I|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	4.877318972	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+HISDEG-PWY: L-histidine degradation I|unclassified	8.328606919	0	43.36082113	0	0	4.166126952	114.5435437	0	10.06119776	0	0	0	0	0	0	0	0	0	5.611090514	0	0	0	0	0	0	0	0	0
+HISTSYN-PWY: L-histidine biosynthesis	0	0	59.31019547	0	0	62.33189601	279.265724	0	22.1974707	0	0	0	0	0	0	0	22.60462053	0	14.63828006	0	0	0	0	0	0	0	0	0
+HISTSYN-PWY: L-histidine biosynthesis|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	12.48352683	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+HISTSYN-PWY: L-histidine biosynthesis|unclassified	0	0	59.31019547	0	0	62.33189601	255.6386495	0	22.1974707	0	0	0	0	0	0	0	22.60462053	0	14.63828006	0	0	0	0	0	0	0	0	0
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I	0	0	35.17177555	0	0	0	74.13413589	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+HOMOSER-METSYN-PWY: L-methionine biosynthesis I|unclassified	0	0	35.17177555	0	0	0	74.13413589	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+HSERMETANA-PWY: L-methionine biosynthesis III	0	0	71.03237594	5.948781626	6.338165556	53.71611994	243.5878675	0	22.68663496	0	0	0	0	0	0	0	21.71174962	0	22.35554951	0	0	0	0	0	0	0	0	0
+HSERMETANA-PWY: L-methionine biosynthesis III|unclassified	0	0	71.03237594	5.948781626	6.338165556	53.71611994	243.5878675	0	22.68663496	0	0	0	0	0	0	0	21.71174962	0	22.35554951	0	0	0	0	0	0	0	0	0
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)	7.377705407	0	149.8835585	19.9915183	19.46170215	141.8408769	475.3959862	0	46.74639166	20.60251108	0	0	0	0	0	0	78.61340479	0	40.07528559	0	0	36.27175172	0	10.96316336	0	0	0	0
+ILEUSYN-PWY: L-isoleucine biosynthesis I (from threonine)|unclassified	7.377705407	0	149.8835585	19.9915183	19.46170215	141.8408769	467.5136727	0	46.74639166	20.60251108	0	0	0	0	0	0	78.61340479	0	40.07528559	0	0	36.27175172	0	10.96316336	0	0	0	0
+LACTOSECAT-PWY: lactose and galactose degradation I	0	0	0	0	0	0	7.958694242	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LACTOSECAT-PWY: lactose and galactose degradation I|unclassified	0	0	0	0	0	0	7.958694242	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LEU-DEG2-PWY: L-leucine degradation I	0	0	0	0	0	0	26.68488389	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LEU-DEG2-PWY: L-leucine degradation I|unclassified	0	0	0	0	0	0	26.6807335	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LIPASYN-PWY: phospholipases	0	0	0	0	0	6.410272873	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LIPASYN-PWY: phospholipases|unclassified	0	0	0	0	0	6.410272873	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis	0	0	46.19607581	0	0	0	101.6169941	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+MET-SAM-PWY: superpathway of S-adenosyl-L-methionine biosynthesis|unclassified	0	0	46.19607581	0	0	0	100.7801232	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+METHGLYUT-PWY: superpathway of methylglyoxal degradation	0	0	0	0	0	0	25.2679795	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+METHGLYUT-PWY: superpathway of methylglyoxal degradation|unclassified	0	0	0	0	0	0	25.2679795	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+METHYLGALLATE-DEGRADATION-PWY: methylgallate degradation	0	0	0	0	0	0	16.59576921	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+METHYLGALLATE-DEGRADATION-PWY: methylgallate degradation|unclassified	0	0	0	0	0	0	16.59576921	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+METSYN-PWY: superpathway of L-homoserine and L-methionine biosynthesis	0	0	42.98663585	0	0	0	106.6932176	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+METSYN-PWY: superpathway of L-homoserine and L-methionine biosynthesis|unclassified	0	0	42.98663585	0	0	0	105.7128815	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NAD-BIOSYNTHESIS-II: NAD salvage pathway III (to nicotinamide riboside)	0	0	0	0	0	0	16.20610834	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NAD-BIOSYNTHESIS-II: NAD salvage pathway III (to nicotinamide riboside)|unclassified	0	0	0	0	0	0	16.20610834	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NADSYN-PWY: NAD de novo biosynthesis II (from tryptophan)	0	0	0	0	0	0	31.02050234	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NADSYN-PWY: NAD de novo biosynthesis II (from tryptophan)|unclassified	0	0	0	0	0	0	31.02050234	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NAGLIPASYN-PWY: lipid IVA biosynthesis (E. coli)	0	0	21.04311249	0	0	17.48122477	60.29751524	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NAGLIPASYN-PWY: lipid IVA biosynthesis (E. coli)|unclassified	0	0	21.04311249	0	0	17.48122477	60.29751524	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NONMEVIPP-PWY: methylerythritol phosphate pathway I	0	0	26.65583165	0	0	49.08552962	126.1716903	0	14.57298343	0	0	0	0	0	0	0	10.065118	0	12.05911261	0	0	0	0	0	0	0	0	0
+NONMEVIPP-PWY: methylerythritol phosphate pathway I|unclassified	0	0	26.65583165	0	0	49.08552962	118.989762	0	14.57298343	0	0	0	0	0	0	0	10.065118	0	12.05911261	0	0	0	0	0	0	0	0	0
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch) I	6.369022141	0	76.04789834	8.443611794	0	67.4228907	337.4737964	0	31.23360531	12.06130849	0	0	0	0	0	11.75174382	24.12446044	0	10.55734044	0	0	79.70100336	0	31.41086676	64.80233213	0	0	0
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch) I|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	12.69895236	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+NONOXIPENT-PWY: pentose phosphate pathway (non-oxidative branch) I|unclassified	6.369022141	0	76.04789834	8.443611794	0	67.4228907	320.563486	0	31.23360531	12.06130849	0	0	0	0	0	11.75174382	24.12446044	0	10.55734044	0	0	79.70100336	0	31.41086676	64.80233213	0	0	0
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)	0	0	26.30708131	0	0	68.26394243	130.0722835	0	26.67224354	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+OANTIGEN-PWY: O-antigen building blocks biosynthesis (E. coli)|unclassified	0	0	26.30708131	0	0	68.26394243	126.5124274	0	26.67224354	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+P105-PWY: TCA cycle IV (2-oxoglutarate decarboxylase)	0	0	77.05212303	0	0	53.09659519	247.511528	0	12.98636569	0	0	6.883840447	0	0	0	0	0	0	7.321678828	0	0	0	0	0	0	0	0	0
+P105-PWY: TCA cycle IV (2-oxoglutarate decarboxylase)|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	6.927820439	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+P105-PWY: TCA cycle IV (2-oxoglutarate decarboxylase)|unclassified	0	0	77.05212303	0	0	53.09659519	244.7468004	0	12.98636569	0	0	6.883840447	0	0	0	0	0	0	7.321678828	0	0	0	0	0	0	0	0	0
+P108-PWY: pyruvate fermentation to propanoate I	0	0	15.01702817	0	0	23.40686599	67.32532555	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+P108-PWY: pyruvate fermentation to propanoate I|unclassified	0	0	15.01702817	0	0	23.40686599	56.94465038	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+P122-PWY: heterolactic fermentation	0	0	0	0	0	0	45.26716555	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+P124-PWY: Bifidobacterium shunt	0	0	0	0	0	73.14561258	80.83864889	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+P124-PWY: Bifidobacterium shunt|unclassified	0	0	0	0	0	73.14561258	80.52355793	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+P161-PWY: acetylene degradation (anaerobic)	0	0	71.29073647	0	0	15.16950325	86.43147433	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+P161-PWY: acetylene degradation (anaerobic)|unclassified	0	0	71.29073647	0	0	15.16950325	86.43147433	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+P164-PWY: purine nucleobases degradation I (anaerobic)	0	0	24.73287218	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+P164-PWY: purine nucleobases degradation I (anaerobic)|unclassified	0	0	24.73287218	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+P184-PWY: protocatechuate degradation I (meta-cleavage pathway)	0	0	0	0	0	0	17.58446519	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+P184-PWY: protocatechuate degradation I (meta-cleavage pathway)|unclassified	0	0	0	0	0	0	17.58446519	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+P185-PWY: formaldehyde assimilation III (dihydroxyacetone cycle)	0	0	0	0	0	43.95464506	33.87300848	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+P185-PWY: formaldehyde assimilation III (dihydroxyacetone cycle)|unclassified	0	0	0	0	0	43.95464506	33.75983593	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+P221-PWY: octane oxidation	0	0	23.53215163	0	0	0	37.30062883	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+P221-PWY: octane oxidation|unclassified	0	0	23.53215163	0	0	0	37.30062883	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+P23-PWY: reductive TCA cycle I	0	0	17.05867148	0	0	10.27000399	56.74440536	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+P23-PWY: reductive TCA cycle I|unclassified	0	0	17.05867148	0	0	10.27000399	55.94964833	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"P4-PWY: superpathway of L-lysine, L-threonine and L-methionine biosynthesis I"	0	0	44.50995981	0	0	0	134.7061652	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"P4-PWY: superpathway of L-lysine, L-threonine and L-methionine biosynthesis I|unclassified"	0	0	44.50995981	0	0	0	131.5080043	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+P41-PWY: pyruvate fermentation to acetate and (S)-lactate I	0	0	0	0	0	15.92054709	20.30223329	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+P41-PWY: pyruvate fermentation to acetate and (S)-lactate I|unclassified	0	0	0	0	0	15.92054709	17.30237438	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+P42-PWY: incomplete reductive TCA cycle	0	0	39.91216027	0	0	17.47807848	63.13567161	0	0	0	0	0	0	0	0	0	8.840429968	0	0	0	0	0	0	0	0	0	0	0
+P42-PWY: incomplete reductive TCA cycle|unclassified	0	0	39.91216027	0	0	17.47807848	62.03189803	0	0	0	0	0	0	0	0	0	8.840429968	0	0	0	0	0	0	0	0	0	0	0
+P441-PWY: superpathway of N-acetylneuraminate degradation	0	0	17.22612264	0	0	21.62462388	33.75270445	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+P441-PWY: superpathway of N-acetylneuraminate degradation|unclassified	0	0	17.22612264	0	0	21.62462388	29.8724093	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+P621-PWY: nylon-6 oligomer degradation	0	0	0	0	0	0	19.45686012	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+P621-PWY: nylon-6 oligomer degradation|unclassified	0	0	0	0	0	0	19.45686012	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PANTO-PWY: phosphopantothenate biosynthesis I	5.627733226	0	31.2819209	0	0	38.67340258	106.6898619	0	0	0	0	0	0	0	0	0	9.044065564	0	8.132670064	0	0	0	0	0	0	0	0	0
+PANTO-PWY: phosphopantothenate biosynthesis I|unclassified	5.627733226	0	31.2819209	0	0	38.67340258	105.0902143	0	0	0	0	0	0	0	0	0	9.044065564	0	8.132670064	0	0	0	0	0	0	0	0	0
+PANTOSYN-PWY: superpathway of coenzyme A biosynthesis I (bacteria)	0	0	28.23922823	0	0	30.75938731	124.3758319	0	0	0	0	0	0	0	0	0	0	0	8.226978226	0	0	0	0	0	0	0	0	0
+PANTOSYN-PWY: superpathway of coenzyme A biosynthesis I (bacteria)|unclassified	0	0	28.23922823	0	0	30.75938731	121.6433279	0	0	0	0	0	0	0	0	0	0	0	8.226978226	0	0	0	0	0	0	0	0	0
+PENTOSE-P-PWY: pentose phosphate pathway	0	0	45.47618103	0	0	46.37462724	240.7591172	0	25.11128682	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PENTOSE-P-PWY: pentose phosphate pathway|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	9.456789961	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PENTOSE-P-PWY: pentose phosphate pathway|unclassified	0	0	45.47618103	0	0	46.37462724	227.0703009	0	25.11128682	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)	0	0	45.2152858	0	0	37.08842331	135.5175477	0	13.55949004	0	0	0	0	0	0	0	0	0	11.35332232	0	0	0	0	0	0	0	0	0
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	8.025969287	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PEPTIDOGLYCANSYN-PWY: peptidoglycan biosynthesis I (meso-diaminopimelate containing)|unclassified	0	0	45.2152858	0	0	37.08842331	122.0774784	0	13.55949004	0	0	0	0	0	0	0	0	0	11.35332232	0	0	0	0	0	0	0	0	0
+PHOSLIPSYN-PWY: superpathway of phospholipid biosynthesis I (bacteria)	0	0	32.4335627	0	0	0	94.52126399	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PHOSLIPSYN-PWY: superpathway of phospholipid biosynthesis I (bacteria)|unclassified	0	0	32.4335627	0	0	0	87.95391134	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PHOTOALL-PWY: oxygenic photosynthesis	0	0	0	0	0	63.98348122	43.14942379	0	37.80141369	0	0	0	0	0	0	0	0	0	27.04392191	0	0	0	0	0	0	0	0	0
+PHOTOALL-PWY: oxygenic photosynthesis|unclassified	0	0	0	0	0	63.98348122	43.08721161	0	37.80141369	0	0	0	0	0	0	0	0	0	27.04392191	0	0	0	0	0	0	0	0	0
+POLYISOPRENSYN-PWY: polyisoprenoid biosynthesis (E. coli)	0	0	19.58796296	0	0	24.96324718	93.10201535	0	22.72203567	0	0	0	0	0	0	0	8.611534602	0	0	0	0	0	0	0	0	0	0	0
+POLYISOPRENSYN-PWY: polyisoprenoid biosynthesis (E. coli)|unclassified	0	0	19.58796296	0	0	24.96324718	92.59304045	0	22.72203567	0	0	0	0	0	0	0	8.611534602	0	0	0	0	0	0	0	0	0	0	0
+PPGPPMET-PWY: ppGpp metabolism	0	0	58.44857798	0	0	37.7220687	125.5048986	0	10.32825062	6.75243395	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PPGPPMET-PWY: ppGpp metabolism|unclassified	0	0	58.44857798	0	0	37.7220687	124.8117424	0	10.32825062	6.75243395	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY: protocatechuate degradation II (ortho-cleavage pathway)	0	0	0	0	0	0	16.87639954	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY: protocatechuate degradation II (ortho-cleavage pathway)|unclassified	0	0	0	0	0	0	16.87639954	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-101: photosynthesis light reactions	3.512890099	0	2.042697925	0	6.959680668	74.46059539	60.73918185	0	50.09104826	2.479160608	0	2.153947599	0	0	15.24807753	2.883499512	27.3745764	0	33.20767706	0	0	0	0	0	0	0	0	0
+PWY-101: photosynthesis light reactions|unclassified	3.512890099	0	2.042697925	0	6.959680668	74.46059539	60.73918185	0	50.09104826	2.479160608	0	2.153947599	0	0	15.24807753	2.883499512	27.3745764	0	33.20767706	0	0	0	0	0	0	0	0	0
+PWY-1042: glycolysis IV	5.598603817	0	105.582428	12.96589359	9.815740641	125.2948817	399.3714529	0	38.12440009	0	0	0	0	0	0	9.850283265	38.1251453	0	30.35993224	0	0	0	0	0	0	0	0	0
+PWY-1042: glycolysis IV|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	16.02900682	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-1042: glycolysis IV|unclassified	5.598603817	0	105.582428	12.96589359	9.815740641	125.2948817	377.0668819	0	38.12440009	0	0	0	0	0	0	9.850283265	38.1251453	0	30.35993224	0	0	0	0	0	0	0	0	0
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis	0	0	21.26703654	0	6.150728022	18.61620566	122.1940413	0	5.239969795	0	0	0	5.706181697	0	0	5.890189541	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-1269: CMP-3-deoxy-D-manno-octulosonate biosynthesis|unclassified	0	0	21.26703654	0	6.150728022	18.61620566	122.1940413	0	5.239969795	0	0	0	5.706181697	0	0	5.890189541	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-1622: formaldehyde assimilation I (serine pathway)	0	0	0	0	0	0	31.52116922	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-1622: formaldehyde assimilation I (serine pathway)|unclassified	0	0	0	0	0	0	31.16808473	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-181: photorespiration	0	0	0	0	0	0	22.10168831	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-181: photorespiration|unclassified	0	0	0	0	0	0	22.09826291	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-2221: Entner-Doudoroff pathway III (semi-phosphorylative)	0	0	0	0	0	0	51.7856837	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-2221: Entner-Doudoroff pathway III (semi-phosphorylative)|unclassified	0	0	0	0	0	0	51.13149705	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY-241: C4 photosynthetic carbon assimilation cycle, NADP-ME type"	0	0	16.05555654	0	0	52.77099231	145.4387028	0	0	0	0	0	0	0	0	0	26.05583958	0	17.61016441	0	0	0	0	0	0	0	0	0
+"PWY-241: C4 photosynthetic carbon assimilation cycle, NADP-ME type|unclassified"	0	0	16.05555654	0	0	52.77099231	145.0958123	0	0	0	0	0	0	0	0	0	26.05583958	0	17.61016441	0	0	0	0	0	0	0	0	0
+PWY-2941: L-lysine biosynthesis II	0	0	0	0	0	0	46.16324527	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-2941: L-lysine biosynthesis II|unclassified	0	0	0	0	0	0	45.83373295	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-3001: superpathway of L-isoleucine biosynthesis I	0	0	69.01145332	0	0	84.56232188	287.2792465	0	33.53620821	0	0	0	0	0	0	0	0	0	26.2790542	0	0	0	0	0	0	0	0	0
+PWY-3001: superpathway of L-isoleucine biosynthesis I|unclassified	0	0	69.01145332	0	0	84.56232188	274.8534113	0	33.53620821	0	0	0	0	0	0	0	0	0	26.2790542	0	0	0	0	0	0	0	0	0
+PWY-3502: superpathway of NAD biosynthesis in eukaryotes	0	0	0	0	0	0	10.73881482	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-3502: superpathway of NAD biosynthesis in eukaryotes|unclassified	0	0	0	0	0	0	10.73379997	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-3661: glycine betaine degradation I	0	0	0	0	0	0	17.23990848	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-3661: glycine betaine degradation I|unclassified	0	0	0	0	0	0	17.02359209	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-3781: aerobic respiration I (cytochrome c)	0	0	0	0	0	54.5730126	96.93184977	0	10.57567887	0	0	0	0	0	14.44347198	0	9.826268489	0	11.14763975	0	0	0	0	0	0	0	0	0
+PWY-3781: aerobic respiration I (cytochrome c)|unclassified	0	0	0	0	0	54.5730126	96.10047748	0	10.57567887	0	0	0	0	0	14.44347198	0	9.826268489	0	11.14763975	0	0	0	0	0	0	0	0	0
+PWY-3841: folate transformations II (plants)	0	0	57.86562419	0	7.757510716	71.98104598	391.4804657	0	60.07375405	0	0	0	0	0	0	15.43364444	107.5584706	0	18.66370662	0	0	0	0	0	32.48310374	0	0	0
+PWY-3841: folate transformations II (plants)|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	10.45907762	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-3841: folate transformations II (plants)|unclassified	0	0	57.86562419	0	7.757510716	71.98104598	379.9643545	0	60.07375405	0	0	0	0	0	0	15.43364444	107.5584706	0	18.66370662	0	0	0	0	0	32.48310374	0	0	0
+PWY-4041: &gamma;-glutamyl cycle	0	0	12.70059651	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-4041: &gamma;-glutamyl cycle|unclassified	0	0	12.70059651	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-4984: urea cycle	0	0	27.46811923	0	0	50.20612194	48.71274826	0	0	0	0	0	0	0	0	0	0	0	13.13315898	0	0	0	0	0	0	0	0	0
+PWY-4984: urea cycle|unclassified	0	0	27.46811923	0	0	50.20612194	48.50511632	0	0	0	0	0	0	0	0	0	0	0	13.13315898	0	0	0	0	0	0	0	0	0
+PWY-5005: biotin biosynthesis II	0	0	0	0	0	0	13.84542179	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5022: 4-aminobutanoate degradation V	0	8.001591113	0	0	0	0	70.4467524	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5022: 4-aminobutanoate degradation V|unclassified	0	8.001591113	0	0	0	0	62.79933327	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5028: L-histidine degradation II	0	0	0	0	0	0	26.54104575	0	8.525334333	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5028: L-histidine degradation II|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	5.52312722	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5028: L-histidine degradation II|unclassified	0	0	0	0	0	0	26.36705443	0	8.525334333	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5097: L-lysine biosynthesis VI	0	0	48.64621294	0	0	47.08664408	202.2858662	0	23.47515754	0	0	0	0	0	0	0	0	0	8.01247978	0	0	0	0	0	0	0	0	0
+PWY-5097: L-lysine biosynthesis VI|unclassified	0	0	48.64621294	0	0	47.08664408	194.8005248	0	23.47515754	0	0	0	0	0	0	0	0	0	8.01247978	0	0	0	0	0	0	0	0	0
+PWY-5100: pyruvate fermentation to acetate and lactate II	0	0	28.23988824	0	0	19.88040739	34.97019462	0	0	0	0	0	0	0	0	0	4.828702867	0	0	0	0	0	0	0	0	0	0	0
+PWY-5100: pyruvate fermentation to acetate and lactate II|unclassified	0	0	28.23988824	0	0	19.88040739	34.97019462	0	0	0	0	0	0	0	0	0	4.828702867	0	0	0	0	0	0	0	0	0	0	0
+PWY-5103: L-isoleucine biosynthesis III	6.674017046	0	139.7000399	19.07795976	17.18031742	135.3237891	446.3510691	0	42.38657416	18.92476421	0	0	0	0	0	0	72.31063928	0	34.54082949	0	0	30.12421986	0	8.262988648	0	0	0	0
+PWY-5103: L-isoleucine biosynthesis III|unclassified	6.674017046	0	139.7000399	19.07795976	17.18031742	135.3237891	438.3246078	0	42.38657416	18.92476421	0	0	0	0	0	0	72.31063928	0	34.54082949	0	0	30.12421986	0	8.262988648	0	0	0	0
+PWY-5121: superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)	0	0	24.25703573	0	0	37.37178409	86.85812904	0	15.94198087	0	0	0	0	0	0	0	8.405902535	0	0	0	0	0	0	0	0	0	0	0
+PWY-5121: superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)|unclassified	0	0	24.25703573	0	0	37.37178409	83.24323096	0	15.94198087	0	0	0	0	0	0	0	8.405902535	0	0	0	0	0	0	0	0	0	0	0
+PWY-5130: 2-oxobutanoate degradation I	3.101307598	0	31.58075536	0	0	35.8186769	64.44520323	0	0	0	0	0	0	0	0	0	7.62397449	0	0	0	0	0	0	0	0	0	0	0
+PWY-5130: 2-oxobutanoate degradation I|unclassified	3.101307598	0	31.58075536	0	0	35.8186769	64.15391087	0	0	0	0	0	0	0	0	0	7.62397449	0	0	0	0	0	0	0	0	0	0	0
+PWY-5136: fatty acid &beta;-oxidation II (plant peroxisome)	0	0	93.0192308	0	0	5.142409283	252.3381018	0	13.57139194	0	0	0	0	0	0	0	27.18888497	0	19.37606316	0	0	0	0	0	0	0	0	0
+PWY-5136: fatty acid &beta;-oxidation II (plant peroxisome)|unclassified	0	0	93.0192308	0	0	5.142409283	252.3381018	0	13.57139194	0	0	0	0	0	0	0	27.18888497	0	19.37606316	0	0	0	0	0	0	0	0	0
+"PWY-5138: fatty acid &beta;-oxidation IV (unsaturated, even number)"	0	0	61.31817428	0	0	16.61585639	55.34843525	0	0	0	0	0	0	0	0	0	9.282257233	0	0	0	0	0	0	0	0	0	0	0
+"PWY-5138: fatty acid &beta;-oxidation IV (unsaturated, even number)|unclassified"	0	0	61.31817428	0	0	16.61585639	55.34843525	0	0	0	0	0	0	0	0	0	9.282257233	0	0	0	0	0	0	0	0	0	0	0
+PWY-5154: L-arginine biosynthesis III (via N-acetyl-L-citrulline)	0	0	27.76255546	6.841850741	0	20.5261147	163.9590634	0	17.20333309	0	0	0	0	0	0	0	23.1690224	0	11.72038458	0	0	0	0	0	0	0	0	0
+PWY-5154: L-arginine biosynthesis III (via N-acetyl-L-citrulline)|unclassified	0	0	27.76255546	6.841850741	0	20.5261147	161.518035	0	17.20333309	0	0	0	0	0	0	0	23.1690224	0	11.72038458	0	0	0	0	0	0	0	0	0
+PWY-5180: toluene degradation I (aerobic) (via o-cresol)	0	0	0	0	0	0	45.19901458	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5180: toluene degradation I (aerobic) (via o-cresol)|unclassified	0	0	0	0	0	0	45.19901458	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)	0	0	48.73807068	0	0	61.92539478	189.2618419	0	6.996162642	0	0	0	0	0	0	0	22.61278191	0	0	0	0	0	0	0	0	0	0	0
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	12.7486111	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5188: tetrapyrrole biosynthesis I (from glutamate)|unclassified	0	0	48.73807068	0	0	61.92539478	173.859095	0	6.996162642	0	0	0	0	0	0	0	22.61278191	0	0	0	0	0	0	0	0	0	0	0
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)	0	0	28.66161045	0	0	94.79833307	238.1992414	0	17.3433843	0	0	0	0	0	0	0	26.3948509	0	9.531933118	0	0	0	0	0	0	0	0	0
+PWY-5189: tetrapyrrole biosynthesis II (from glycine)|unclassified	0	0	28.66161045	0	0	94.79833307	224.4486273	0	17.3433843	0	0	0	0	0	0	0	26.3948509	0	9.531933118	0	0	0	0	0	0	0	0	0
+PWY-5345: superpathway of L-methionine biosynthesis (by sulfhydrylation)	0	0	55.66747612	0	0	49.20125424	168.056371	0	17.65900899	0	0	0	0	0	0	0	0	0	16.9366103	0	0	0	0	0	0	0	0	0
+PWY-5345: superpathway of L-methionine biosynthesis (by sulfhydrylation)|unclassified	0	0	55.66747612	0	0	49.20125424	166.508598	0	17.65900899	0	0	0	0	0	0	0	0	0	16.9366103	0	0	0	0	0	0	0	0	0
+PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration)	0	0	45.97048103	0	0	0	114.7836664	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5347: superpathway of L-methionine biosynthesis (transsulfuration)|unclassified	0	0	45.97048103	0	0	0	113.7903132	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)	0	0	34.75365024	0	0	7.811205259	62.03255596	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5384: sucrose degradation IV (sucrose phosphorylase)|unclassified	0	0	34.75365024	0	0	7.811205259	60.92352663	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5415: catechol degradation I (meta-cleavage pathway)	0	0	0	0	0	0	35.97377709	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5415: catechol degradation I (meta-cleavage pathway)|unclassified	0	0	0	0	0	0	35.97377709	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5417: catechol degradation III (ortho-cleavage pathway)	0	0	0	0	0	0	22.62825873	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7.962842467	0	0	0	0	0	0
+PWY-5417: catechol degradation III (ortho-cleavage pathway)|unclassified	0	0	0	0	0	0	22.62825873	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7.962842467	0	0	0	0	0	0
+PWY-5419: catechol degradation to 2-hydroxypentadienoate II	0	0	0	0	0	0	22.78646036	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5419: catechol degradation to 2-hydroxypentadienoate II|unclassified	0	0	0	0	0	0	22.78646036	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5420: catechol degradation II (meta-cleavage pathway)	0	0	0	0	0	0	29.25299619	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5420: catechol degradation II (meta-cleavage pathway)|unclassified	0	0	0	0	0	0	29.25299619	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5430: meta cleavage pathway of aromatic compounds	0	0	0	0	0	0	15.36750802	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5430: meta cleavage pathway of aromatic compounds|unclassified	0	0	0	0	0	0	15.36750802	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5431: aromatic compounds degradation via &beta;-ketoadipate	0	0	0	0	0	0	22.62825873	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7.962842467	0	0	0	0	0	0
+PWY-5431: aromatic compounds degradation via &beta;-ketoadipate|unclassified	0	0	0	0	0	0	22.62825873	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7.962842467	0	0	0	0	0	0
+"PWY-5464: superpathway of cytosolic glycolysis (plants), pyruvate dehydrogenase and TCA cycle"	0	0	0	0	0	0	84.97600765	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY-5464: superpathway of cytosolic glycolysis (plants), pyruvate dehydrogenase and TCA cycle|unclassified"	0	0	0	0	0	0	84.48257325	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5484: glycolysis II (from fructose 6-phosphate)	0	0	24.33835898	0	0	78.49302443	242.2097428	0	28.82577392	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5484: glycolysis II (from fructose 6-phosphate)|unclassified	0	0	24.33835898	0	0	78.49302443	238.4133818	0	28.82577392	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5505: L-glutamate and L-glutamine biosynthesis	0	0	0	0	0	0	138.1293022	0	0	0	0	0	0	0	0	0	14.82031879	0	7.593469652	0	0	0	0	0	0	0	0	0
+PWY-5505: L-glutamate and L-glutamine biosynthesis|unclassified	0	0	0	0	0	0	137.7271419	0	0	0	0	0	0	0	0	0	14.82031879	0	7.593469652	0	0	0	0	0	0	0	0	0
+"PWY-5531: 3,8-divinyl-chlorophyllide a biosynthesis II (anaerobic)"	0	0	0	0	0	21.79941213	21.81597798	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY-5531: 3,8-divinyl-chlorophyllide a biosynthesis II (anaerobic)|unclassified"	0	0	0	0	0	21.79941213	21.75216045	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-561: superpathway of glyoxylate cycle and fatty acid degradation	0	0	87.87270047	0	0	13.39162833	261.6580092	0	0	0	0	0	0	0	0	0	31.12696977	0	10.83844868	0	0	0	0	0	0	0	0	0
+PWY-561: superpathway of glyoxylate cycle and fatty acid degradation|unclassified	0	0	87.87270047	0	0	13.39162833	259.6458214	0	0	0	0	0	0	0	0	0	31.12696977	0	10.83844868	0	0	0	0	0	0	0	0	0
+PWY-5647: 2-nitrobenzoate degradation I	0	0	0	0	0	0	13.48320745	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5647: 2-nitrobenzoate degradation I|unclassified	0	0	0	0	0	0	13.48320745	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5651: L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	0	0	0	0	0	0	21.38669531	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5651: L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde|unclassified	0	0	0	0	0	0	21.38669531	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5654: 2-amino-3-carboxymuconate semialdehyde degradation to 2-hydroxypentadienoate	0	0	0	0	0	0	11.22229685	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5654: 2-amino-3-carboxymuconate semialdehyde degradation to 2-hydroxypentadienoate|unclassified	0	0	0	0	0	0	11.22229685	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5655: L-tryptophan degradation IX	0	0	0	0	0	0	9.27311326	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5655: L-tryptophan degradation IX|unclassified	0	0	0	0	0	0	9.27311326	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5659: GDP-mannose biosynthesis	0	0	29.73686859	0	0	39.69148939	118.3005254	0	33.34877894	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5659: GDP-mannose biosynthesis|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	10.43839127	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5659: GDP-mannose biosynthesis|unclassified	0	0	29.73686859	0	0	39.69148939	114.5367883	0	33.34877894	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5667: CDP-diacylglycerol biosynthesis I	0	0	53.76539017	0	0	38.58216609	93.89042546	0	30.79290281	0	0	0	0	0	0	0	0	0	8.141374933	0	0	0	0	0	0	0	0	0
+PWY-5667: CDP-diacylglycerol biosynthesis I|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	9.9206534	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5667: CDP-diacylglycerol biosynthesis I|unclassified	0	0	53.76539017	0	0	38.58216609	84.27864286	0	30.79290281	0	0	0	0	0	0	0	0	0	8.141374933	0	0	0	0	0	0	0	0	0
+PWY-5675: nitrate reduction V (assimilatory)	0	3.960825282	26.1214966	0	0	27.18255114	135.764601	0	35.15400228	0	0	0	0	0	0	7.088608752	18.38397305	0	6.188864874	0	0	0	0	0	0	0	0	0
+PWY-5675: nitrate reduction V (assimilatory)|unclassified	0	3.960825282	26.1214966	0	0	27.18255114	135.3527725	0	35.15400228	0	0	0	0	0	0	7.088608752	18.38397305	0	6.188864874	0	0	0	0	0	0	0	0	0
+PWY-5676: acetyl-CoA fermentation to butanoate II	0	0	19.48586691	0	0	13.90821789	54.24097862	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5676: acetyl-CoA fermentation to butanoate II|unclassified	0	0	19.48586691	0	0	13.90821789	54.24097862	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5677: succinate fermentation to butanoate	0	0	0	0	0	0	4.178314859	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5686: UMP biosynthesis I	4.288320379	0	59.67284618	9.677620824	0	62.5833027	332.344954	0	33.78514168	0	0	0	0	0	0	0	6.560142222	0	17.71386363	0	0	31.01154731	0	0	17.40175157	0	0	0
+PWY-5686: UMP biosynthesis I|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	8.054674168	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5686: UMP biosynthesis I|unclassified	4.288320379	0	59.67284618	9.677620824	0	62.5833027	322.0336033	0	33.78514168	0	0	0	0	0	0	0	6.560142222	0	17.71386363	0	0	31.01154731	0	0	17.40175157	0	0	0
+PWY-5690: TCA cycle II (plants and fungi)	0	0	22.60635396	0	0	0	150.0947887	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5690: TCA cycle II (plants and fungi)|unclassified	0	0	22.60635396	0	0	0	149.0583576	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5695: inosine 5'-phosphate degradation	8.504626214	0	87.89512765	1.845064238	4.820917971	25.94318306	173.9663939	0	0	5.480277605	0	5.983895356	0	0	0	6.480113421	0	0	15.04168464	0	0	0	0	0	0	0	0	0
+PWY-5695: inosine 5'-phosphate degradation|unclassified	8.504626214	0	87.89512765	1.845064238	4.820917971	25.94318306	161.140623	0	0	5.480277605	0	5.983895356	0	0	0	6.480113421	0	0	15.04168464	0	0	0	0	0	0	0	0	0
+PWY-5723: Rubisco shunt	0	0	33.99299124	0	0	74.69204261	208.2834169	0	38.81197037	6.718208895	0	0	0	0	0	0	17.84304098	0	10.61557485	0	0	0	0	0	0	0	0	0
+PWY-5723: Rubisco shunt|unclassified	0	0	33.99299124	0	0	74.69204261	204.3552538	0	38.81197037	6.718208895	0	0	0	0	0	0	17.84304098	0	10.61557485	0	0	0	0	0	0	0	0	0
+PWY-5741: ethylmalonyl-CoA pathway	0	0	0	0	0	0	29.17738239	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5741: ethylmalonyl-CoA pathway|unclassified	0	0	0	0	0	0	29.17738239	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5747: 2-methylcitrate cycle II	0	0	21.44230187	0	0	0	54.23482411	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5747: 2-methylcitrate cycle II|unclassified	0	0	21.44230187	0	0	0	54.23482411	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY-5837: 2-carboxy-1,4-naphthoquinol biosynthesis"	0	0	0	0	0	0	22.19476818	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY-5837: 2-carboxy-1,4-naphthoquinol biosynthesis|unclassified"	0	0	0	0	0	0	6.980355915	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5838: superpathway of menaquinol-8 biosynthesis I	0	0	0	0	0	0	50.83862069	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5838: superpathway of menaquinol-8 biosynthesis I|unclassified	0	0	0	0	0	0	20.21425232	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5840: superpathway of menaquinol-7 biosynthesis	0	0	0	0	0	0	42.05100513	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5840: superpathway of menaquinol-7 biosynthesis|unclassified	0	0	0	0	0	0	18.97911608	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5855: ubiquinol-7 biosynthesis (early decarboxylation)	0	0	7.02758833	0	0	7.593518699	37.57362688	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5855: ubiquinol-7 biosynthesis (early decarboxylation)|unclassified	0	0	7.02758833	0	0	7.593518699	37.57362688	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5861: superpathway of demethylmenaquinol-8 biosynthesis I	0	0	0	0	0	0	35.91047184	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5861: superpathway of demethylmenaquinol-8 biosynthesis I|unclassified	0	0	0	0	0	0	13.80245186	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5896: superpathway of menaquinol-10 biosynthesis	0	0	0	0	0	0	31.70359442	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5896: superpathway of menaquinol-10 biosynthesis|unclassified	0	0	0	0	0	0	17.67713501	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5897: superpathway of menaquinol-11 biosynthesis	0	0	0	0	0	0	47.75713905	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5897: superpathway of menaquinol-11 biosynthesis|unclassified	0	0	0	0	0	0	18.23784092	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5898: superpathway of menaquinol-12 biosynthesis	0	0	0	0	0	0	47.75713905	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5898: superpathway of menaquinol-12 biosynthesis|unclassified	0	0	0	0	0	0	18.23784092	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5899: superpathway of menaquinol-13 biosynthesis	0	0	0	0	0	0	47.75713905	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5899: superpathway of menaquinol-13 biosynthesis|unclassified	0	0	0	0	0	0	18.23784092	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5910: superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)	0	0	0	0	0	0	19.02250094	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5910: superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)|unclassified	0	0	0	0	0	0	19.02250094	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5913: partial TCA cycle (obligate autotrophs)	0	0	41.43928476	0	15.816421	71.74443332	202.0263357	0	35.9989211	0	0	0	0	0	0	0	40.53836426	0	15.66982731	0	0	0	0	0	0	0	0	0
+PWY-5913: partial TCA cycle (obligate autotrophs)|unclassified	0	0	41.43928476	0	15.816421	71.74443332	201.2129008	0	35.9989211	0	0	0	0	0	0	0	40.53836426	0	15.66982731	0	0	0	0	0	0	0	0	0
+PWY-5918: superpathway of heme b biosynthesis from glutamate	0	0	0	0	0	0	66.63935468	0	6.702804067	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5918: superpathway of heme b biosynthesis from glutamate|unclassified	0	0	0	0	0	0	40.50920761	0	6.702804067	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5920: superpathway of heme b biosynthesis from glycine	0	0	0	0	0	0	57.48481737	0	8.987179035	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5920: superpathway of heme b biosynthesis from glycine|unclassified	0	0	0	0	0	0	34.09199134	0	8.987179035	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5941: glycogen degradation II	0	0	15.95523965	0	0	0	101.9542737	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5941: glycogen degradation II|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	15.49200396	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5941: glycogen degradation II|unclassified	0	0	15.95523965	0	0	0	83.14072257	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-5973: cis-vaccenate biosynthesis	0	0	89.32361122	4.616738856	5.105499432	117.6693594	345.8461386	0	33.66971143	0	0	0	0	0	0	0	50.66148084	0	8.262810759	0	0	9.491799973	0	0	0	0	0	0
+PWY-5973: cis-vaccenate biosynthesis|unclassified	0	0	89.32361122	4.616738856	5.105499432	117.6693594	343.8049914	0	33.66971143	0	0	0	0	0	0	0	50.66148084	0	8.262810759	0	0	9.491799973	0	0	0	0	0	0
+PWY-5981: CDP-diacylglycerol biosynthesis III	0	0	13.2716363	0	0	26.01818972	54.59057843	0	12.92195023	0	0	0	0	0	0	0	0	0	3.724015592	0	0	0	0	0	0	0	0	0
+PWY-5981: CDP-diacylglycerol biosynthesis III|unclassified	0	0	13.2716363	0	0	26.01818972	51.83672428	0	12.92195023	0	0	0	0	0	0	0	0	0	3.724015592	0	0	0	0	0	0	0	0	0
+PWY-5989: stearate biosynthesis II (bacteria and plants)	0	0	98.45964199	5.82901664	6.105246426	0	358.2774841	0	22.27271818	0	0	0	0	0	0	0	29.23675205	0	15.40990198	0	0	0	0	0	0	0	0	0
+PWY-5989: stearate biosynthesis II (bacteria and plants)|unclassified	0	0	98.45964199	5.82901664	6.105246426	0	356.4505755	0	22.27271818	0	0	0	0	0	0	0	29.23675205	0	15.40990198	0	0	0	0	0	0	0	0	0
+"PWY-6084: 3,5-dichlorocatechol degradation"	0	0	0	0	0	0	33.29129929	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY-6084: 3,5-dichlorocatechol degradation|unclassified"	0	0	0	0	0	0	33.29129929	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I	0	0	63.84432498	0	3.967125568	79.48218596	358.8551685	0	40.40443445	7.098670211	0	0	0	0	0	0	24.38588032	0	15.91146615	0	0	45.26703024	0	12.66064865	23.45010172	0	0	0
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	12.78006261	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6121: 5-aminoimidazole ribonucleotide biosynthesis I|unclassified	0	0	63.84432498	0	3.967125568	79.48218596	347.3631563	0	40.40443445	7.098670211	0	0	0	0	0	0	24.38588032	0	15.91146615	0	0	45.26703024	0	12.66064865	23.45010172	0	0	0
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II	0	0	71.85549848	7.557317941	10.85938881	100.1632606	378.240789	0	52.20362588	9.164200052	0	10.60107377	0	0	0	0	31.83526138	5.491405961	16.08211354	0	0	67.59371408	0	18.61721414	44.3532082	0	0	0
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	11.72481914	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6122: 5-aminoimidazole ribonucleotide biosynthesis II|unclassified	0	0	71.85549848	7.557317941	10.85938881	100.1632606	369.8156962	0	52.20362588	9.164200052	0	10.60107377	0	0	0	0	31.83526138	5.491405961	16.08211354	0	0	67.59371408	0	18.61721414	44.3532082	0	0	0
+PWY-6123: inosine-5'-phosphate biosynthesis I	0	0	60.44580667	0	0	68.78104921	306.5721559	0	16.20296731	0	0	0	0	0	0	0	20.21102666	0	15.48771531	0	0	15.61160761	0	8.808365793	35.65767877	0	0	0
+PWY-6123: inosine-5'-phosphate biosynthesis I|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	12.97185828	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6123: inosine-5'-phosphate biosynthesis I|unclassified	0	0	60.44580667	0	0	68.78104921	291.244489	0	16.20296731	0	0	0	0	0	0	0	20.21102666	0	15.48771531	0	0	15.61160761	0	8.808365793	35.65767877	0	0	0
+PWY-6124: inosine-5'-phosphate biosynthesis II	0	0	61.51515443	0	0	68.05841186	332.3255753	0	49.99492836	0	0	0	4.202513841	0	0	0	18.51289588	0	20.22797981	0	0	14.18140426	0	9.086540554	38.30250992	0	0	0
+PWY-6124: inosine-5'-phosphate biosynthesis II|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	12.57578686	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6124: inosine-5'-phosphate biosynthesis II|unclassified	0	0	61.51515443	0	0	68.05841186	317.0626633	0	49.99492836	0	0	0	4.202513841	0	0	0	18.51289588	0	20.22797981	0	0	14.18140426	0	9.086540554	38.30250992	0	0	0
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II	0	0	78.86357886	0	4.873391979	68.59254351	343.17801	0	14.22248407	8.68474204	0	0	0	0	0	8.436388232	25.84719644	0	19.0618606	0	0	0	0	0	0	0	0	0
+PWY-6125: superpathway of guanosine nucleotides de novo biosynthesis II|unclassified	0	0	78.86357886	0	4.873391979	68.59254351	331.2995691	0	14.22248407	8.68474204	0	0	0	0	0	8.436388232	25.84719644	0	19.0618606	0	0	0	0	0	0	0	0	0
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II	0	0	77.01640219	0	0	95.94594504	392.6493025	0	20.00524041	12.76951742	0	0	0	0	0	0	28.72911286	0	25.85526857	0	0	0	0	0	0	0	0	0
+PWY-6126: superpathway of adenosine nucleotides de novo biosynthesis II|unclassified	0	0	77.01640219	0	0	95.94594504	379.1424003	0	20.00524041	12.76951742	0	0	0	0	0	0	28.72911286	0	25.85526857	0	0	0	0	0	0	0	0	0
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I	0	0	8.239608468	0	0	13.76546439	64.71516767	0	11.6941248	0	0	0	0	0	0	0	0	0	4.275627082	0	0	0	0	0	5.298257596	0	0	0
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	7.541479539	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6147: 6-hydroxymethyl-dihydropterin diphosphate biosynthesis I|unclassified	0	0	8.239608468	0	0	13.76546439	49.46350587	0	11.6941248	0	0	0	0	0	0	0	0	0	4.275627082	0	0	0	0	0	5.298257596	0	0	0
+PWY-6151: S-adenosyl-L-methionine salvage I	0	0	37.3760954	0	0	0	31.86912806	0	0	0	0	0	0	0	0	0	0	0	7.859578259	0	0	0	0	0	0	0	0	0
+PWY-6151: S-adenosyl-L-methionine salvage I|unclassified	0	0	37.3760954	0	0	0	13.16091978	0	0	0	0	0	0	0	0	0	0	0	7.859578259	0	0	0	0	0	0	0	0	0
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate	0	0	37.3106018	0	0	65.18330684	213.3709347	0	11.44048999	0	0	0	0	0	0	6.122805099	18.31357033	0	11.00022418	0	0	0	0	0	0	0	0	0
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	7.249292529	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6163: chorismate biosynthesis from 3-dehydroquinate|unclassified	0	0	37.3106018	0	0	65.18330684	203.0488728	0	11.44048999	0	0	0	0	0	0	6.122805099	18.31357033	0	11.00022418	0	0	0	0	0	0	0	0	0
+PWY-6185: 4-methylcatechol degradation (ortho cleavage)	0	0	0	0	0	0	30.46370271	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6185: 4-methylcatechol degradation (ortho cleavage)|unclassified	0	0	0	0	0	0	30.46370271	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6210: 2-aminophenol degradation	0	0	0	0	0	0	7.695296382	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6210: 2-aminophenol degradation|unclassified	0	0	0	0	0	0	7.695296382	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-621: sucrose degradation III (sucrose invertase)	0	0	28.63647329	0	0	9.867221378	52.1346402	0	7.989878079	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-621: sucrose degradation III (sucrose invertase)|unclassified	0	0	28.63647329	0	0	9.867221378	52.05794317	0	7.989878079	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-622: starch biosynthesis	0	0	0	0	0	0	61.08156561	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6270: isoprene biosynthesis I	0	0	20.74652746	0	0	38.09815082	104.7887868	0	0	0	0	0	0	0	0	0	5.249623998	0	4.870934608	0	0	0	0	0	0	0	0	0
+PWY-6270: isoprene biosynthesis I|unclassified	0	0	20.74652746	0	0	38.09815082	94.11444424	0	0	0	0	0	0	0	0	0	5.249623998	0	4.870934608	0	0	0	0	0	0	0	0	0
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis	0	0	71.85549848	7.557317941	10.85938881	100.1632606	378.240789	0	52.20362588	9.164200052	0	10.60107377	0	0	0	0	31.83526138	5.491405961	16.08211354	0	0	67.59371408	0	18.61721414	44.3532082	0	0	0
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	11.72481914	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6277: superpathway of 5-aminoimidazole ribonucleotide biosynthesis|unclassified	0	0	71.85549848	7.557317941	10.85938881	100.1632606	369.8156962	0	52.20362588	9.164200052	0	10.60107377	0	0	0	0	31.83526138	5.491405961	16.08211354	0	0	67.59371408	0	18.61721414	44.3532082	0	0	0
+PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)	0	0	104.2993275	5.297106541	6.122549665	123.7690512	376.9216638	0	38.5171674	0	0	0	0	0	0	0	53.11565776	0	16.07271122	0	0	46.49108072	0	16.91948035	55.57418317	0	0	0
+PWY-6282: palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)|unclassified	0	0	104.2993275	5.297106541	6.122549665	123.7690512	374.231196	0	38.5171674	0	0	0	0	0	0	0	53.11565776	0	16.07271122	0	0	46.49108072	0	16.91948035	55.57418317	0	0	0
+PWY-6292: superpathway of L-cysteine biosynthesis (mammalian)	0	0	23.99846176	0	0	41.44467925	151.3432587	0	15.21078037	0	0	0	0	0	0	4.108662652	0	0	8.417372381	0	0	0	0	0	0	0	0	0
+PWY-6292: superpathway of L-cysteine biosynthesis (mammalian)|unclassified	0	0	23.99846176	0	0	41.44467925	151.0842118	0	15.21078037	0	0	0	0	0	0	4.108662652	0	0	8.417372381	0	0	0	0	0	0	0	0	0
+PWY-6293: superpathway of L-cysteine biosynthesis (fungi)	0	0	16.77525704	0	0	0	121.5987244	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6293: superpathway of L-cysteine biosynthesis (fungi)|unclassified	0	0	16.77525704	0	0	0	121.5987244	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6305: superpathway of putrescine biosynthesis	0	0	0	0	0	20.86051953	34.0029171	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6305: superpathway of putrescine biosynthesis|unclassified	0	0	0	0	0	20.86051953	34.0029171	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6317: D-galactose degradation I (Leloir pathway)	0	0	19.86204962	0	0	0	24.52675395	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6317: D-galactose degradation I (Leloir pathway)|unclassified	0	0	19.86204962	0	0	0	24.52675395	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY-6318: L-phenylalanine degradation IV (mammalian, via side chain)"	0	0	0	0	0	0	8.653721232	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY-6318: L-phenylalanine degradation IV (mammalian, via side chain)|unclassified"	0	0	0	0	0	0	8.653721232	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6353: purine nucleotides degradation II (aerobic)	0	0	18.17582917	0	0	18.22177825	74.53488308	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6353: purine nucleotides degradation II (aerobic)|unclassified	0	0	18.17582917	0	0	18.22177825	70.77129765	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY-6383: mono-trans, poly-cis decaprenyl phosphate biosynthesis"	0	0	0	0	0	0	11.78812442	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)	0	0	44.13323184	0	0	35.46590868	133.4668803	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6385: peptidoglycan biosynthesis III (mycobacteria)|unclassified	0	0	44.13323184	0	0	35.46590868	120.5609155	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)	0	0	43.67745883	0	0	28.26166871	129.0173692	0	0	0	0	0	0	0	0	0	9.919382854	0	11.94592943	0	0	0	0	0	0	0	0	0
+PWY-6386: UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)|unclassified	0	0	43.67745883	0	0	28.26166871	118.9356674	0	0	0	0	0	0	0	0	0	9.919382854	0	11.94592943	0	0	0	0	0	0	0	0	0
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)	0	0	44.37767033	0	0	38.09979889	134.9490187	0	17.20790498	0	0	0	0	0	0	0	14.69566064	0	12.13604597	0	0	0	0	0	0	0	0	0
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	8.177720394	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6387: UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)|unclassified	0	0	44.37767033	0	0	38.09979889	124.5522922	0	17.20790498	0	0	0	0	0	0	0	14.69566064	0	12.13604597	0	0	0	0	0	0	0	0	0
+PWY-6478: GDP-D-glycero-&alpha;-D-manno-heptose biosynthesis	0	0	0	0	0	0	6.93214822	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6478: GDP-D-glycero-&alpha;-D-manno-heptose biosynthesis|unclassified	0	0	0	0	0	0	6.93214822	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation	0	0	13.30791164	0	0	10.18031112	45.4145246	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6507: 4-deoxy-L-threo-hex-4-enopyranuronate degradation|unclassified	0	0	13.30791164	0	0	10.18031112	44.32185882	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6519: 8-amino-7-oxononanoate biosynthesis I	0	0	36.77707209	0	0	0	27.76038082	0	0	0	0	0	0	0	0	0	18.47819676	0	0	0	0	0	0	0	0	0	0	0
+PWY-6519: 8-amino-7-oxononanoate biosynthesis I|unclassified	0	0	36.77707209	0	0	0	27.61999503	0	0	0	0	0	0	0	0	0	18.47819676	0	0	0	0	0	0	0	0	0	0	0
+PWY-6527: stachyose degradation	0	0	18.85840808	0	0	0	38.26852951	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6527: stachyose degradation|unclassified	0	0	18.85840808	0	0	0	38.26852951	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6545: pyrimidine deoxyribonucleotides de novo biosynthesis III	0	0	44.56044431	0	7.815781725	20.56660246	128.3343979	0	8.07176698	0	0	0	0	0	0	0	0	0	25.70775487	0	0	0	0	0	0	0	0	0
+PWY-6545: pyrimidine deoxyribonucleotides de novo biosynthesis III|unclassified	0	0	44.56044431	0	7.815781725	20.56660246	126.0830595	0	8.07176698	0	0	0	0	0	0	0	0	0	25.70775487	0	0	0	0	0	0	0	0	0
+PWY-6549: L-glutamine biosynthesis III	0	0	30.0941233	0	0	75.20547536	227.0317257	0	32.08547008	0	0	0	0	0	0	0	31.87402623	0	0	0	0	0	0	0	0	0	0	0
+PWY-6549: L-glutamine biosynthesis III|unclassified	0	0	30.0941233	0	0	75.20547536	225.0714439	0	32.08547008	0	0	0	0	0	0	0	31.87402623	0	0	0	0	0	0	0	0	0	0	0
+PWY-6562: norspermidine biosynthesis	0	0	6.527238783	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6562: norspermidine biosynthesis|unclassified	0	0	6.527238783	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6565: superpathway of polyamine biosynthesis III	0	0	9.283364931	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6565: superpathway of polyamine biosynthesis III|unclassified	0	0	9.283364931	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6583: pyruvate fermentation to butanol I	0	0	13.83414907	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6583: pyruvate fermentation to butanol I|unclassified	0	0	13.83414907	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6588: pyruvate fermentation to acetone	0	0	26.90587532	0	0	0	16.78633025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6588: pyruvate fermentation to acetone|unclassified	0	0	26.90587532	0	0	0	16.78633025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6590: superpathway of Clostridium acetobutylicum acidogenic fermentation	0	0	31.03182606	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6590: superpathway of Clostridium acetobutylicum acidogenic fermentation|unclassified	0	0	31.03182606	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6595: superpathway of guanosine nucleotides degradation (plants)	0	0	0	0	0	0	9.669488841	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6595: superpathway of guanosine nucleotides degradation (plants)|unclassified	0	0	0	0	0	0	9.669488841	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6606: guanosine nucleotides degradation II	0	0	7.85691862	0	0	14.77908964	42.09903766	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6606: guanosine nucleotides degradation II|unclassified	0	0	7.85691862	0	0	14.77908964	42.09903766	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6607: guanosine nucleotides degradation I	0	0	0	0	0	0	9.843271098	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6607: guanosine nucleotides degradation I|unclassified	0	0	0	0	0	0	9.843271098	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6608: guanosine nucleotides degradation III	0	0	35.6845149	0	3.836675661	21.68292443	57.11990475	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6608: guanosine nucleotides degradation III|unclassified	0	0	35.6845149	0	3.836675661	21.68292443	56.43206357	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6609: adenine and adenosine salvage III	0	0	49.02706859	0	0	13.37273219	125.8417704	0	0	0	0	6.341117357	0	0	0	3.457220836	0	0	11.68957085	0	0	0	0	0	0	0	0	0
+PWY-6609: adenine and adenosine salvage III|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	13.02565198	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6609: adenine and adenosine salvage III|unclassified	0	0	49.02706859	0	0	13.37273219	117.8425107	0	0	0	0	6.341117357	0	0	0	3.457220836	0	0	11.68957085	0	0	0	0	0	0	0	0	0
+PWY-6628: superpathway of L-phenylalanine biosynthesis	0	0	37.7962027	0	0	41.76615585	156.6247062	0	11.50252164	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6628: superpathway of L-phenylalanine biosynthesis|unclassified	0	0	37.7962027	0	0	41.76615585	153.5182357	0	11.50252164	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6629: superpathway of L-tryptophan biosynthesis	0	0	41.59442157	0	0	54.91884647	248.0844782	0	17.06419572	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6629: superpathway of L-tryptophan biosynthesis|unclassified	0	0	41.59442157	0	0	54.91884647	240.3089006	0	17.06419572	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6630: superpathway of L-tyrosine biosynthesis	0	0	37.36471592	0	0	39.56579126	149.6781083	0	0	0	0	0	0	0	0	0	9.503328384	0	0	0	0	0	0	0	0	0	0	0
+PWY-6630: superpathway of L-tyrosine biosynthesis|unclassified	0	0	37.36471592	0	0	39.56579126	146.8385848	0	0	0	0	0	0	0	0	0	9.503328384	0	0	0	0	0	0	0	0	0	0	0
+PWY-6641: superpathway of sulfolactate degradation	0	0	0	0	0	10.36617769	26.62483968	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6641: superpathway of sulfolactate degradation|unclassified	0	0	0	0	0	10.36617769	26.62483968	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6672: cis-geranyl-CoA degradation	0	0	0	0	0	0	9.747829105	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6672: cis-geranyl-CoA degradation|unclassified	0	0	0	0	0	0	9.747829105	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6700: queuosine biosynthesis I (de novo)	9.539671748	0	69.85432202	8.244938092	4.456077872	36.39891095	158.0278008	0	28.59510998	8.986091305	0	0	0	0	0	6.232968959	43.84589158	0	10.50872853	0	0	14.20321546	0	0	14.13536919	0	0	0
+PWY-6700: queuosine biosynthesis I (de novo)|unclassified	9.539671748	0	69.85432202	8.244938092	4.456077872	36.39891095	158.0278008	0	28.59510998	8.986091305	0	0	0	0	0	6.232968959	43.84589158	0	10.50872853	0	0	14.20321546	0	0	14.13536919	0	0	0
+PWY-6703: preQ0 biosynthesis	0	5.796718862	45.74696109	0	0	49.41785829	152.042648	0	8.715002049	0	0	0	0	0	0	0	27.68587113	0	15.48345068	0	0	0	0	0	0	0	0	0
+PWY-6703: preQ0 biosynthesis|unclassified	0	5.796718862	45.74696109	0	0	49.41785829	151.9187067	0	8.715002049	0	0	0	0	0	0	0	27.68587113	0	15.48345068	0	0	0	0	0	0	0	0	0
+PWY-6748: nitrate reduction VII (denitrification)	0	0	0	0	0	0	4.553445515	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6749: CMP-legionaminate biosynthesis I	0	0	0	0	0	0	8.178368669	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6749: CMP-legionaminate biosynthesis I|unclassified	0	0	0	0	0	0	8.173950393	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6823: molybdopterin biosynthesis	0	0	26.74403794	0	0	61.30607656	161.307465	0	14.56722245	0	0	0	0	0	0	5.323225505	0	0	15.60832033	0	0	0	0	0	0	0	0	0
+PWY-6823: molybdopterin biosynthesis|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	14.15956564	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6823: molybdopterin biosynthesis|unclassified	0	0	26.74403794	0	0	61.30607656	147.1247998	0	14.56722245	0	0	0	0	0	0	5.323225505	0	0	15.60832033	0	0	0	0	0	0	0	0	0
+PWY-6834: spermidine biosynthesis III	0	0	8.458618478	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6834: spermidine biosynthesis III|unclassified	0	0	8.458618478	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6859: all-trans-farnesol biosynthesis	0	0	12.84675163	0	0	19.43052328	55.89903679	0	18.67187562	0	0	0	0	0	0	0	6.523869538	0	0	0	0	0	0	0	0	0	0	0
+PWY-6859: all-trans-farnesol biosynthesis|unclassified	0	0	12.84675163	0	0	19.43052328	55.89903679	0	18.67187562	0	0	0	0	0	0	0	6.523869538	0	0	0	0	0	0	0	0	0	0	0
+PWY-6876: isopropanol biosynthesis (engineered)	0	0	0	0	0	0	33.65931144	0	0	0	0	0	0	0	0	0	6.434257812	0	0	0	0	0	0	0	0	0	0	0
+PWY-6876: isopropanol biosynthesis (engineered)|unclassified	0	0	0	0	0	0	33.65931144	0	0	0	0	0	0	0	0	0	6.434257812	0	0	0	0	0	0	0	0	0	0	0
+PWY-6892: thiazole component of thiamine diphosphate biosynthesis I	0	0	55.80348881	4.777591433	0	8.645987693	25.70531886	0	12.46906754	0	0	0	0	0	0	0	11.082751	0	0	0	0	0	0	0	0	0	0	0
+PWY-6892: thiazole component of thiamine diphosphate biosynthesis I|unclassified	0	0	55.80348881	4.777591433	0	8.645987693	25.5927224	0	12.46906754	0	0	0	0	0	0	0	11.082751	0	0	0	0	0	0	0	0	0	0	0
+PWY-6895: superpathway of thiamine diphosphate biosynthesis II	0	0	0	0	0	15.69565677	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6895: superpathway of thiamine diphosphate biosynthesis II|unclassified	0	0	0	0	0	15.69565677	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6897: thiamine diphosphate salvage II	0	0	0	0	0	19.52775188	81.14635551	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6897: thiamine diphosphate salvage II|unclassified	0	0	0	0	0	19.52775188	69.35908086	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6901: superpathway of glucose and xylose degradation	0	0	0	0	0	53.84142773	121.6026027	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6901: superpathway of glucose and xylose degradation|unclassified	0	0	0	0	0	53.84142773	120.1468994	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6902: chitin degradation II (Vibrio)	0	0	5.035003274	0	0	0	0	0	10.51544917	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6902: chitin degradation II (Vibrio)|unclassified	0	0	5.035003274	0	0	0	0	0	10.51544917	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6906: chitin derivatives degradation	0	0	3.808627106	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6906: chitin derivatives degradation|unclassified	0	0	3.808627106	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6922: L-N&delta;-acetylornithine biosynthesis	0	0	14.2356639	0	0	0	45.82378951	0	0	0	0	0	0	0	0	0	0	0	8.839411761	0	0	0	0	0	0	0	0	0
+PWY-6922: L-N&delta;-acetylornithine biosynthesis|unclassified	0	0	14.2356639	0	0	0	45.75236242	0	0	0	0	0	0	0	0	0	0	0	8.839411761	0	0	0	0	0	0	0	0	0
+PWY-6936: seleno-amino acid biosynthesis (plants)	0	0	67.24937201	0	0	47.16720631	69.61081107	0	0	0	0	0	0	0	0	0	0	0	14.02047312	0	0	0	0	0	0	0	0	0
+PWY-6936: seleno-amino acid biosynthesis (plants)|unclassified	0	0	67.24937201	0	0	47.16720631	69.34579504	0	0	0	0	0	0	0	0	0	0	0	14.02047312	0	0	0	0	0	0	0	0	0
+PWY-6969: TCA cycle V (2-oxoglutarate synthase)	0	0	96.41844884	0	20.93194771	75.42742301	437.9206885	0	21.9545806	0	0	7.114806132	0	0	0	13.26249012	37.47006374	0	12.08494053	0	0	0	0	0	0	0	0	0
+PWY-6969: TCA cycle V (2-oxoglutarate synthase)|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	7.321124691	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-6969: TCA cycle V (2-oxoglutarate synthase)|unclassified	0	0	96.41844884	0	20.93194771	75.42742301	426.8990005	0	21.9545806	0	0	7.114806132	0	0	0	13.26249012	37.47006374	0	12.08494053	0	0	0	0	0	0	0	0	0
+PWY-7000: kanamycin biosynthesis	0	0	0	0	0	0	6.754033528	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7000: kanamycin biosynthesis|unclassified	0	0	0	0	0	0	6.754033528	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY-7013: (S)-propane-1,2-diol degradation"	0	0	13.80136545	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY-7013: (S)-propane-1,2-diol degradation|unclassified"	0	0	13.80136545	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-702: L-methionine biosynthesis II	0	5.10204462	44.38755189	0	7.744128718	11.46661644	78.62861739	0	0	0	0	0	0	0	0	0	0	0	11.02832254	0	0	0	0	0	0	0	0	0
+PWY-702: L-methionine biosynthesis II|unclassified	0	5.10204462	44.38755189	0	7.744128718	11.46661644	77.47901974	0	0	0	0	0	0	0	0	0	0	0	11.02832254	0	0	0	0	0	0	0	0	0
+PWY-7052: cyanophycin metabolism	0	0	0	0	0	0	9.352240574	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7052: cyanophycin metabolism|unclassified	0	0	0	0	0	0	9.352240574	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7094: fatty acid salvage	0	0	0	0	0	0	69.8514882	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7094: fatty acid salvage|unclassified	0	0	0	0	0	0	69.8514882	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7111: pyruvate fermentation to isobutanol (engineered)	0	0	146.4640489	9.933227645	7.060397283	132.517158	379.3325357	0	41.24046045	20.3562609	0	0	0	0	0	0	17.79823395	0	47.909379	0	0	12.85388916	0	0	0	0	0	0
+PWY-7111: pyruvate fermentation to isobutanol (engineered)|unclassified	0	0	146.4640489	9.933227645	7.060397283	132.517158	376.2812812	0	41.24046045	20.3562609	0	0	0	0	0	0	17.79823395	0	47.909379	0	0	12.85388916	0	0	0	0	0	0
+"PWY-7115: C4 photosynthetic carbon assimilation cycle, NAD-ME type"	0	0	15.9104075	0	0	19.96949219	135.8884361	0	0	0	0	0	0	0	0	0	26.88063683	0	0	0	0	0	0	0	0	0	0	0
+"PWY-7115: C4 photosynthetic carbon assimilation cycle, NAD-ME type|unclassified"	0	0	15.9104075	0	0	19.96949219	135.6789303	0	0	0	0	0	0	0	0	0	26.88063683	0	0	0	0	0	0	0	0	0	0	0
+"PWY-7117: C4 photosynthetic carbon assimilation cycle, PEPCK type"	0	0	40.63003232	0	4.09601675	64.01798129	142.7124382	0	0	0	0	0	0	0	0	0	34.8552862	0	14.62656773	0	0	0	0	0	0	0	0	0
+"PWY-7117: C4 photosynthetic carbon assimilation cycle, PEPCK type|unclassified"	0	0	40.63003232	0	4.09601675	64.01798129	142.7124382	0	0	0	0	0	0	0	0	0	34.8552862	0	14.62656773	0	0	0	0	0	0	0	0	0
+PWY-7118: chitin deacetylation	0	0	15.43498601	0	0	18.45805243	58.39961379	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7118: chitin deacetylation|unclassified	0	0	15.43498601	0	0	18.45805243	35.32518707	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7124: ethene biosynthesis V (engineered)	0	0	0	0	0	45.24171544	61.49141099	0	28.3027998	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7124: ethene biosynthesis V (engineered)|unclassified	0	0	0	0	0	45.24171544	61.38912836	0	28.3027998	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY-7159: 3,8-divinyl-chlorophyllide a biosynthesis III (aerobic, light independent)"	0	0	0	0	0	47.60231534	44.10320963	0	24.29740309	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY-7159: 3,8-divinyl-chlorophyllide a biosynthesis III (aerobic, light independent)|unclassified"	0	0	0	0	0	47.60231534	42.2186936	0	24.29740309	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I	0	0	49.1866578	0	8.410465713	20.7114305	146.1382741	0	8.880711406	0	0	0	0	0	0	8.416308257	0	0	22.85402896	0	0	0	0	0	0	0	0	0
+PWY-7184: pyrimidine deoxyribonucleotides de novo biosynthesis I|unclassified	0	0	49.1866578	0	8.410465713	20.7114305	142.9722821	0	8.880711406	0	0	0	0	0	0	8.416308257	0	0	22.85402896	0	0	0	0	0	0	0	0	0
+PWY-7185: UTP and CTP dephosphorylation I	0	0	21.46516408	2.364058956	4.803495315	0	42.83957269	0	21.08222807	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7185: UTP and CTP dephosphorylation I|unclassified	0	0	21.46516408	2.364058956	4.803495315	0	42.81128417	0	21.08222807	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation	0	4.744591674	46.13914964	0	0	57.41819236	189.2741468	0	4.928911912	0	0	0	0	0	0	9.494918674	11.078762	8.266054553	21.98862067	0	0	0	0	0	0	0	0	0
+PWY-7197: pyrimidine deoxyribonucleotide phosphorylation|unclassified	0	4.744591674	46.13914964	0	0	57.41819236	171.9401206	0	4.928911912	0	0	0	0	0	0	9.494918674	11.078762	8.266054553	21.98862067	0	0	0	0	0	0	0	0	0
+PWY-7198: pyrimidine deoxyribonucleotides de novo biosynthesis IV	0	0	21.59745592	0	0	25.66187866	56.13069675	0	12.7229291	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7198: pyrimidine deoxyribonucleotides de novo biosynthesis IV|unclassified	0	0	21.59745592	0	0	25.66187866	55.56471786	0	12.7229291	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7199: pyrimidine deoxyribonucleosides salvage	0	0	21.75884718	0	0	0	139.0998956	0	0	0	0	7.276801112	0	0	0	0	0	0	8.736536059	0	0	0	0	0	0	0	0	0
+PWY-7199: pyrimidine deoxyribonucleosides salvage|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	14.86016847	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7199: pyrimidine deoxyribonucleosides salvage|unclassified	0	0	21.75884718	0	0	0	121.8317334	0	0	0	0	7.276801112	0	0	0	0	0	0	8.736536059	0	0	0	0	0	0	0	0	0
+PWY-7208: superpathway of pyrimidine nucleobases salvage	0	0	74.67211314	8.521912873	0	101.6846674	288.7076236	0	10.50789213	9.068991382	0	0	0	0	0	16.63350485	13.18396836	0	16.5974053	0	0	7.737626729	7.750549039	0	0	0	0	0
+PWY-7208: superpathway of pyrimidine nucleobases salvage|unclassified	0	0	74.67211314	8.521912873	0	101.6846674	268.9727557	0	10.50789213	9.068991382	0	0	0	0	0	16.63350485	13.18396836	0	16.5974053	0	0	7.737626729	7.750549039	0	0	0	0	0
+PWY-7210: pyrimidine deoxyribonucleotides biosynthesis from CTP	0	0	27.07776869	0	0	0	64.63011106	0	7.705663232	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7210: pyrimidine deoxyribonucleotides biosynthesis from CTP|unclassified	0	0	27.07776869	0	0	0	63.67636419	0	7.705663232	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7211: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis	0	0	32.79671987	0	0	29.82608885	92.29818238	0	11.99109362	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7211: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis|unclassified	0	0	32.79671987	0	0	29.82608885	91.44046782	0	11.99109362	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7218: photosynthetic 3-hydroxybutanoate biosynthesis (engineered)	0	0	0	0	0	33.44639297	46.61342209	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7218: photosynthetic 3-hydroxybutanoate biosynthesis (engineered)|unclassified	0	0	0	0	0	33.44639297	46.56766718	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II	0	4.868919418	72.94432964	0	10.11946396	69.21187869	379.7762345	0	10.77357845	12.96955705	0	3.091196944	0	0	3.086419753	12.41621417	23.94301235	5.227752473	23.32995265	4.709576138	0	6.574521793	22.46950248	12.82542026	0	0	8.019015777	0
+PWY-7220: adenosine deoxyribonucleotides de novo biosynthesis II|unclassified	0	4.868919418	72.94432964	0	10.11946396	69.21187869	375.3347029	0	10.77357845	12.96955705	0	3.091196944	0	0	3.086419753	12.41621417	23.94301235	5.227752473	23.32995265	4.709576138	0	6.574521793	22.46950248	12.82542026	0	0	8.019015777	0
+PWY-7221: guanosine ribonucleotides de novo biosynthesis	0	0	92.60789384	10.17321999	6.190395625	72.8234682	372.4033386	0	28.10509914	14.45693819	0	3.450843587	0	0	0	8.083565606	29.67567852	5.089137544	20.46259271	0	0	8.102265097	0	0	0	0	0	0
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	13.02783082	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7221: guanosine ribonucleotides de novo biosynthesis|unclassified	0	0	92.60789384	10.17321999	6.190395625	72.8234682	366.6352507	0	28.10509914	14.45693819	0	3.450843587	0	0	0	8.083565606	29.67567852	5.089137544	20.46259271	0	0	8.102265097	0	0	0	0	0	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II	0	4.868919418	72.94432964	0	10.11946396	69.21187869	379.7762345	0	10.77357845	12.96955705	0	3.091196944	0	0	3.086419753	12.41621417	23.94301235	5.227752473	23.32995265	4.709576138	0	6.574521793	22.46950248	12.82542026	0	0	8.019015777	0
+PWY-7222: guanosine deoxyribonucleotides de novo biosynthesis II|unclassified	0	4.868919418	72.94432964	0	10.11946396	69.21187869	375.3347029	0	10.77357845	12.96955705	0	3.091196944	0	0	3.086419753	12.41621417	23.94301235	5.227752473	23.32995265	4.709576138	0	6.574521793	22.46950248	12.82542026	0	0	8.019015777	0
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I	0	0	83.67677793	0	7.191043783	73.36525311	384.4296209	0	15.82220747	14.3686391	0	3.431248363	0	0	0	9.378825385	27.4546025	5.326629057	22.01755986	0	0	8.163309106	0	0	0	0	0	0
+PWY-7228: superpathway of guanosine nucleotides de novo biosynthesis I|unclassified	0	0	83.67677793	0	7.191043783	73.36525311	378.0718522	0	15.82220747	14.3686391	0	3.431248363	0	0	0	9.378825385	27.4546025	5.326629057	22.01755986	0	0	8.163309106	0	0	0	0	0	0
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I	0	0	81.26410084	0	0	106.4581302	405.5500611	0	25.3224695	13.1072513	0	0	0	0	0	0	31.35198176	0	27.37489669	0	0	0	0	0	0	0	0	0
+PWY-7229: superpathway of adenosine nucleotides de novo biosynthesis I|unclassified	0	0	81.26410084	0	0	106.4581302	388.8572296	0	25.3224695	13.1072513	0	0	0	0	0	0	31.35198176	0	27.37489669	0	0	0	0	0	0	0	0	0
+PWY-7234: inosine-5'-phosphate biosynthesis III	0	0	42.37203201	0	0	52.44681967	214.2813812	0	0	0	0	0	0	0	0	0	17.3857595	0	11.72897787	0	0	15.61160761	0	8.808365793	25.23408162	0	0	0
+PWY-7234: inosine-5'-phosphate biosynthesis III|unclassified	0	0	42.37203201	0	0	52.44681967	209.3582788	0	0	0	0	0	0	0	0	0	17.3857595	0	11.72897787	0	0	15.61160761	0	8.808365793	25.23408162	0	0	0
+"PWY-7237: myo-, chiro- and scyllo-inositol degradation"	0	0	0	0	0	0	77.15577438	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY-7237: myo-, chiro- and scyllo-inositol degradation|unclassified"	0	0	0	0	0	0	77.15577438	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7238: sucrose biosynthesis II	0	0	10.90324003	0	0	0	89.02975969	0	13.52542824	0	0	0	0	0	0	0	16.05028833	0	0	0	0	0	0	0	0	0	0	0
+PWY-7238: sucrose biosynthesis II|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	16.61764989	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7238: sucrose biosynthesis II|unclassified	0	0	10.90324003	0	0	0	70.4418693	0	13.52542824	0	0	0	0	0	0	0	16.05028833	0	0	0	0	0	0	0	0	0	0	0
+PWY-7242: D-fructuronate degradation	0	0	17.85810618	0	0	4.714735138	47.4043981	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7242: D-fructuronate degradation|unclassified	0	0	17.85810618	0	0	4.714735138	45.33164085	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II"	0	0	45.04186126	0	0	51.72001031	198.172001	0	24.59301876	0	0	0	0	0	0	0	0	0	10.49955379	0	0	0	0	0	0	0	0	0
+"PWY-724: superpathway of L-lysine, L-threonine and L-methionine biosynthesis II|unclassified"	0	0	45.04186126	0	0	51.72001031	187.1774865	0	24.59301876	0	0	0	0	0	0	0	0	0	10.49955379	0	0	0	0	0	0	0	0	0
+PWY-7254: TCA cycle VII (acetate-producers)	0	0	58.86456119	0	0	0	81.21283214	0	0	0	0	0	0	0	0	0	0	0	9.234680603	0	0	0	0	0	0	0	0	0
+PWY-7254: TCA cycle VII (acetate-producers)|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	6.837231058	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7254: TCA cycle VII (acetate-producers)|unclassified	0	0	58.86456119	0	0	0	78.73341295	0	0	0	0	0	0	0	0	0	0	0	9.234680603	0	0	0	0	0	0	0	0	0
+PWY-7268: cytosolic NADPH production (yeast)	0	0	0	0	0	28.29051774	38.77399991	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7268: cytosolic NADPH production (yeast)|unclassified	0	0	0	0	0	28.29051774	38.65798752	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7269: mitochondrial NADPH production (yeast)	0	0	0	0	0	20.34597116	26.30506313	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7269: mitochondrial NADPH production (yeast)|unclassified	0	0	0	0	0	20.34597116	26.22831107	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7279: aerobic respiration II (cytochrome c) (yeast)	0	0	0	0	0	40.2620898	73.3470729	0	0	0	0	0	0	0	0	0	7.786018918	0	8.631969439	0	0	0	0	0	0	0	0	0
+PWY-7279: aerobic respiration II (cytochrome c) (yeast)|unclassified	0	0	0	0	0	40.2620898	73.20455915	0	0	0	0	0	0	0	0	0	7.786018918	0	8.631969439	0	0	0	0	0	0	0	0	0
+PWY-7282: 4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis II	0	0	0	0	0	0	42.53274287	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7282: 4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis II|unclassified	0	0	0	0	0	0	21.85774691	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7315: dTDP-N-acetylthomosamine biosynthesis	0	0	12.43029879	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7315: dTDP-N-acetylthomosamine biosynthesis|unclassified	0	0	12.43029879	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7323: superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis	0	0	27.03037295	0	0	0	115.5395459	0	17.29553773	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7323: superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis|unclassified	0	0	27.03037295	0	0	0	107.2324386	0	17.29553773	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7328: superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis	0	0	0	0	0	0	74.42945562	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7328: superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis|unclassified	0	0	0	0	0	0	72.75198599	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY-7340: 9-cis, 11-trans-octadecadienoyl-CoA degradation (isomerase-dependent, yeast)"	0	0	0	0	0	4.607855823	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY-7340: 9-cis, 11-trans-octadecadienoyl-CoA degradation (isomerase-dependent, yeast)|unclassified"	0	0	0	0	0	4.607855823	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7345: superpathway of anaerobic sucrose degradation	0	0	0	0	0	28.19150158	160.7003904	0	16.71807	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7345: superpathway of anaerobic sucrose degradation|unclassified	0	0	0	0	0	28.19150158	155.3432254	0	16.71807	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7347: sucrose biosynthesis III	0	0	0	0	0	0	6.361424362	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7347: sucrose biosynthesis III|unclassified	0	0	0	0	0	0	6.356150796	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7356: thiamine diphosphate salvage IV (yeast)	0	0	0	0	0	12.01542902	35.39663023	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7356: thiamine diphosphate salvage IV (yeast)|unclassified	0	0	0	0	0	12.01542902	24.04415037	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7357: thiamine phosphate formation from pyrithiamine and oxythiamine (yeast)	0	0	0	0	0	18.98277598	84.28503287	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7357: thiamine phosphate formation from pyrithiamine and oxythiamine (yeast)|unclassified	0	0	0	0	0	18.98277598	69.16189614	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY-7371: 1,4-dihydroxy-6-naphthoate biosynthesis II"	0	0	0	0	0	0	5.557172531	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY-7371: 1,4-dihydroxy-6-naphthoate biosynthesis II|unclassified"	0	0	0	0	0	0	5.557172531	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY-7383: anaerobic energy metabolism (invertebrates, cytosol)"	0	0	0	0	6.333869743	44.36647421	147.3943148	0	0	0	0	0	0	0	0	9.60109241	32.04151551	0	12.28359091	0	0	0	0	0	0	0	0	0
+"PWY-7383: anaerobic energy metabolism (invertebrates, cytosol)|unclassified"	0	0	0	0	6.333869743	44.36647421	146.5148163	0	0	0	0	0	0	0	0	9.60109241	32.04151551	0	12.28359091	0	0	0	0	0	0	0	0	0
+"PWY-7384: anaerobic energy metabolism (invertebrates, mitochondrial)"	0	0	0	0	0	0	26.06387875	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY-7388: octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)"	0	0	31.29049779	0	0	0	90.69190664	0	0	6.969586395	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY-7388: octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)|unclassified"	0	0	31.29049779	0	0	0	90.5802659	0	0	6.969586395	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7389: superpathway of anaerobic energy metabolism (invertebrates)	0	0	0	0	0	0	38.12910221	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7392: taxadiene biosynthesis (engineered)	0	0	19.09923969	0	0	31.72082414	78.01788493	0	0	0	0	0	0	0	0	0	5.615212741	0	0	0	0	0	0	0	0	0	0	0
+PWY-7392: taxadiene biosynthesis (engineered)|unclassified	0	0	19.09923969	0	0	31.72082414	75.32461914	0	0	0	0	0	0	0	0	0	5.615212741	0	0	0	0	0	0	0	0	0	0	0
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)	0	0	51.53579799	6.699691491	0	71.912387	247.3114028	0	26.41089303	0	0	0	0	0	0	0	0	0	14.68241454	0	0	0	0	0	0	0	0	0
+PWY-7400: L-arginine biosynthesis IV (archaebacteria)|unclassified	0	0	51.53579799	6.699691491	0	71.912387	237.2053718	0	26.41089303	0	0	0	0	0	0	0	0	0	14.68241454	0	0	0	0	0	0	0	0	0
+PWY-7413: dTDP-6-deoxy-&alpha;-D-allose biosynthesis	0	0	0	0	0	7.232054926	15.35919149	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7413: dTDP-6-deoxy-&alpha;-D-allose biosynthesis|unclassified	0	0	0	0	0	7.232054926	15.35919149	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY-7480: 2,3-dihydroxybenzoate degradation"	0	0	0	0	0	0	10.62834556	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY-7480: 2,3-dihydroxybenzoate degradation|unclassified"	0	0	0	0	0	0	10.62834556	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7560: methylerythritol phosphate pathway II	0	0	30.98281653	0	0	54.16137143	129.2229379	0	23.07001539	0	0	0	0	0	0	0	11.36099934	0	4.537503451	0	0	0	0	0	0	0	0	0
+PWY-7560: methylerythritol phosphate pathway II|unclassified	0	0	30.98281653	0	0	54.16137143	122.9220425	0	23.07001539	0	0	0	0	0	0	0	11.36099934	0	4.537503451	0	0	0	0	0	0	0	0	0
+"PWY-7562: 3,6-anhydro-&alpha;-L-galactopyranose degradation"	0	0	0	0	0	0	18.30448624	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY-7562: 3,6-anhydro-&alpha;-L-galactopyranose degradation|unclassified"	0	0	0	0	0	0	18.16012817	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7579: phycourobilin biosynthesis	0	0	0	0	0	42.73814976	9.572233516	0	14.59157354	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7579: phycourobilin biosynthesis|unclassified	0	0	0	0	0	42.73814976	9.572233516	0	14.59157354	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7663: gondoate biosynthesis (anaerobic)	0	0	119.0287267	5.589341078	6.607983106	129.2680511	404.9387239	0	52.16121568	7.325157957	0	0	0	0	0	7.619782182	59.86025021	0	47.12249143	0	0	75.47389927	3.508942377	22.78608974	60.5395178	0	0	0
+PWY-7663: gondoate biosynthesis (anaerobic)|unclassified	0	0	119.0287267	5.589341078	6.607983106	129.2680511	401.4504507	0	52.16121568	7.325157957	0	0	0	0	0	7.619782182	59.86025021	0	47.12249143	0	0	75.47389927	3.508942377	22.78608974	60.5395178	0	0	0
+PWY-7664: oleate biosynthesis IV (anaerobic)	0	0	105.1674251	5.295375849	6.046721506	122.914932	373.9316977	0	40.53363634	0	0	0	0	0	0	0	54.93949217	0	20.68353905	0	0	54.8124875	0	19.89609394	58.38474257	0	0	0
+PWY-7664: oleate biosynthesis IV (anaerobic)|unclassified	0	0	105.1674251	5.295375849	6.046721506	122.914932	371.3775245	0	40.53363634	0	0	0	0	0	0	0	54.93949217	0	20.68353905	0	0	54.8124875	0	19.89609394	58.38474257	0	0	0
+PWY-7688: dTDP-&alpha;-D-ravidosamine and dTDP-4-acetyl-&alpha;-D-ravidosamine biosynthesis	0	0	0	0	0	0	11.46736067	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7688: dTDP-&alpha;-D-ravidosamine and dTDP-4-acetyl-&alpha;-D-ravidosamine biosynthesis|unclassified	0	0	0	0	0	0	11.46736067	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7717: 3-hydroxy-4-methyl-anthranilate biosynthesis I	0	0	0	0	0	0	4.132433511	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7717: 3-hydroxy-4-methyl-anthranilate biosynthesis I|unclassified	0	0	0	0	0	0	4.132433511	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7731: superpathway of photosynthetic hydrogen production	0	0	0	0	0	29.03542419	36.144076	0	23.42005762	0	0	0	0	0	0	0	0	0	12.28102128	0	0	0	0	0	0	0	0	0
+PWY-7731: superpathway of photosynthetic hydrogen production|unclassified	0	0	0	0	0	29.03542419	36.144076	0	23.42005762	0	0	0	0	0	0	0	0	0	12.28102128	0	0	0	0	0	0	0	0	0
+PWY-7761: NAD salvage pathway II (PNC IV cycle)	0	0	9.761979532	0	0	15.45528397	42.17289209	0	6.883305253	0	0	0	0	0	0	0	8.39598694	0	8.90724278	0	0	0	0	0	0	0	0	0
+PWY-7761: NAD salvage pathway II (PNC IV cycle)|unclassified	0	0	9.761979532	0	0	15.45528397	42.17289209	0	6.883305253	0	0	0	0	0	0	0	8.39598694	0	8.90724278	0	0	0	0	0	0	0	0	0
+PWY-7790: UMP biosynthesis II	4.288320379	0	59.67284618	9.677620824	0	48.93798676	332.344954	0	33.78514168	0	0	0	0	0	0	7.060006863	6.560142222	0	14.42830747	0	0	31.01154731	0	0	17.40175157	0	0	0
+PWY-7790: UMP biosynthesis II|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	9.930689704	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7790: UMP biosynthesis II|unclassified	4.288320379	0	59.67284618	9.677620824	0	48.93798676	322.0336033	0	33.78514168	0	0	0	0	0	0	7.060006863	6.560142222	0	14.42830747	0	0	31.01154731	0	0	17.40175157	0	0	0
+PWY-7791: UMP biosynthesis III	4.288320379	0	59.67284618	9.677620824	0	48.93798676	332.344954	0	33.78514168	0	0	0	0	0	0	0	6.560142222	0	14.42830747	0	0	31.01154731	0	0	17.40175157	0	0	0
+PWY-7791: UMP biosynthesis III|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	8.605661529	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7791: UMP biosynthesis III|unclassified	4.288320379	0	59.67284618	9.677620824	0	48.93798676	322.0336033	0	33.78514168	0	0	0	0	0	0	0	6.560142222	0	14.42830747	0	0	31.01154731	0	0	17.40175157	0	0	0
+PWY-7807: glyphosate degradation III	0	0	0	0	0	0	21.93816271	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7807: glyphosate degradation III|unclassified	0	0	0	0	0	0	21.92339982	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7851: coenzyme A biosynthesis II (eukaryotic)	0	0	25.36218333	0	0	25.70487709	145.8579216	0	17.46262519	0	0	0	0	0	0	0	0	0	6.869393292	0	0	0	0	0	0	0	0	0
+PWY-7851: coenzyme A biosynthesis II (eukaryotic)|unclassified	0	0	25.36218333	0	0	25.70487709	136.4180577	0	17.46262519	0	0	0	0	0	0	0	0	0	6.869393292	0	0	0	0	0	0	0	0	0
+PWY-7854: crotonyl-CoA/ethylmalonyl-CoA/hydroxybutyryl-CoA cycle (engineered)	0	0	0	0	0	0	137.1377712	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7858: (5Z)-dodecenoate biosynthesis II	0	0	72.7544	5.001467667	5.463447185	64.76568017	232.3793443	0	34.22259629	0	0	0	0	0	0	0	45.8849811	0	15.55390205	0	0	45.00954046	0	17.32168487	54.17823662	0	0	0
+PWY-7858: (5Z)-dodecenoate biosynthesis II|unclassified	0	0	72.7544	5.001467667	5.463447185	64.76568017	231.6094135	0	34.22259629	0	0	0	0	0	0	0	45.8849811	0	15.55390205	0	0	45.00954046	0	17.32168487	54.17823662	0	0	0
+PWY-7902: glucosylglycerol biosynthesis	0	0	0	0	0	23.79922545	11.09381928	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7902: glucosylglycerol biosynthesis|unclassified	0	0	0	0	0	23.79922545	11.07960073	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7942: 5-oxo-L-proline metabolism	0	0	0	0	0	0	81.16512964	0	0	0	0	0	0	0	0	0	7.273386463	0	16.84898877	0	0	0	0	0	0	0	0	0
+PWY-7942: 5-oxo-L-proline metabolism|unclassified	0	0	0	0	0	0	74.29805277	0	0	0	0	0	0	0	0	0	7.273386463	0	16.84898877	0	0	0	0	0	0	0	0	0
+PWY-7953: UDP-N-acetylmuramoyl-pentapeptide biosynthesis III (meso-diaminopimelate containing)	0	0	42.96778075	0	0	25.34149162	116.7500686	0	0	0	0	0	0	0	0	0	13.53663355	0	11.84962224	0	0	0	0	0	0	0	0	0
+PWY-7953: UDP-N-acetylmuramoyl-pentapeptide biosynthesis III (meso-diaminopimelate containing)|unclassified	0	0	42.96778075	0	0	25.34149162	107.8568565	0	0	0	0	0	0	0	0	0	13.53663355	0	11.84962224	0	0	0	0	0	0	0	0	0
+PWY-7977: L-methionine biosynthesis IV	5.293902884	0	61.31103636	1.9105238	7.999156618	47.70423749	305.7617445	0	28.11077316	6.24814645	0	0	0	0	0	0	0	0	27.96779702	0	0	0	0	0	0	0	0	0
+PWY-7977: L-methionine biosynthesis IV|unclassified	5.293902884	0	61.31103636	1.9105238	7.999156618	47.70423749	294.7265963	0	28.11077316	6.24814645	0	0	0	0	0	0	0	0	27.96779702	0	0	0	0	0	0	0	0	0
+PWY-7992: superpathway of menaquinol-8 biosynthesis III	0	0	0	0	0	0	14.09188304	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-7992: superpathway of menaquinol-8 biosynthesis III|unclassified	0	0	0	0	0	0	14.07282986	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-8004: Entner-Doudoroff pathway I	0	0	0	0	0	0	140.3445073	0	24.17384173	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-8004: Entner-Doudoroff pathway I|unclassified	0	0	0	0	0	0	131.4703225	0	24.17384173	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-8011: L-serine biosynthesis II	0	0	0	0	0	0	25.99222743	0	0	0	0	0	0	0	0	0	10.90978535	0	0	0	0	0	0	0	0	0	0	2.204804459
+PWY-8011: L-serine biosynthesis II|unclassified	0	0	0	0	0	0	25.99222743	0	0	0	0	0	0	0	0	0	10.90978535	0	0	0	0	0	0	0	0	0	0	2.204804459
+PWY-801: homocysteine and cysteine interconversion	0	0	11.34542209	0	0	0	95.74437334	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-801: homocysteine and cysteine interconversion|unclassified	0	0	11.34542209	0	0	0	95.74437334	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-8073: lipid IVA biosynthesis (P. putida)	0	0	21.04311249	0	0	17.48122477	60.29751524	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-8073: lipid IVA biosynthesis (P. putida)|unclassified	0	0	21.04311249	0	0	17.48122477	60.29751524	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-8131: 5'-deoxyadenosine degradation II	0	0	0	0	0	0	18.54664437	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-8131: 5'-deoxyadenosine degradation II|unclassified	0	0	0	0	0	0	9.705623387	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-8178: pentose phosphate pathway (non-oxidative branch) II	5.975039558	0	65.72323289	9.143583488	0	63.52900586	284.9842567	0	28.1321329	0	0	0	0	0	0	0	15.45207268	0	0	0	0	52.34451111	0	0	41.972678	0	0	0
+PWY-8178: pentose phosphate pathway (non-oxidative branch) II|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	8.554263524	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-8178: pentose phosphate pathway (non-oxidative branch) II|unclassified	5.975039558	0	65.72323289	9.143583488	0	63.52900586	274.372542	0	28.1321329	0	0	0	0	0	0	0	15.45207268	0	0	0	0	52.34451111	0	0	41.972678	0	0	0
+PWY-8187: L-arginine degradation XIII (reductive Stickland reaction)	0	0	61.57953677	7.243691282	0	9.826677155	106.2614365	0	14.11944748	0	0	0	0	0	0	0	0	0	7.173299778	0	0	0	0	0	0	0	0	0
+PWY-8187: L-arginine degradation XIII (reductive Stickland reaction)|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	10.42548699	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-8187: L-arginine degradation XIII (reductive Stickland reaction)|unclassified	0	0	61.57953677	7.243691282	0	9.826677155	105.1916592	0	14.11944748	0	0	0	0	0	0	0	0	0	7.173299778	0	0	0	0	0	0	0	0	0
+PWY-821: superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)	0	0	41.21697015	0	0	33.61117094	125.8420354	0	12.48847688	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-821: superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)|unclassified	0	0	41.21697015	0	0	33.61117094	125.8420354	0	12.48847688	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-841: superpathway of purine nucleotides de novo biosynthesis I	0	0	69.9669637	0	0	66.40714787	329.7588452	0	22.15622885	0	0	0	0	0	0	0	17.81926177	0	17.64837594	0	0	0	0	0	0	0	0	0
+PWY-841: superpathway of purine nucleotides de novo biosynthesis I|unclassified	0	0	69.9669637	0	0	66.40714787	312.8267377	0	22.15622885	0	0	0	0	0	0	0	17.81926177	0	17.64837594	0	0	0	0	0	0	0	0	0
+PWY-922: mevalonate pathway I (eukaryotes and bacteria)	0	0	0	0	0	0	15.10378742	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-922: mevalonate pathway I (eukaryotes and bacteria)|unclassified	0	0	0	0	0	0	15.10378742	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-I9: L-cysteine biosynthesis VI (from L-methionine)	0	0	26.69456559	0	0	0	42.027071	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY-I9: L-cysteine biosynthesis VI (from L-methionine)|unclassified	0	0	26.69456559	0	0	0	16.81306677	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY0-1061: superpathway of L-alanine biosynthesis	0	0	36.83550022	0	8.58107616	16.03794119	123.2751374	0	0	0	0	0	0	0	0	0	19.7668089	0	0	0	0	0	0	0	0	0	0	0
+PWY0-1061: superpathway of L-alanine biosynthesis|unclassified	0	0	36.83550022	0	8.58107616	16.03794119	104.3087658	0	0	0	0	0	0	0	0	0	19.7668089	0	0	0	0	0	0	0	0	0	0	0
+PWY0-1241: ADP-L-glycero-&beta;-D-manno-heptose biosynthesis	0	0	36.28119151	3.647276782	0	16.35575826	50.44255092	0	0	0	0	0	0	0	0	0	9.470789922	0	0	0	0	0	0	0	0	0	0	0
+PWY0-1241: ADP-L-glycero-&beta;-D-manno-heptose biosynthesis|unclassified	0	0	36.28119151	3.647276782	0	16.35575826	50.44255092	0	0	0	0	0	0	0	0	0	9.470789922	0	0	0	0	0	0	0	0	0	0	0
+PWY0-1261: anhydromuropeptides recycling I	0	0	0	0	0	0	23.4483508	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY0-1261: anhydromuropeptides recycling I|unclassified	0	0	0	0	0	0	22.63614731	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY0-1296: purine ribonucleosides degradation	0	0	95.27668688	0	0	9.386348012	117.6728892	0	0	0	0	6.110953219	0	0	0	0	0	0	8.600173185	0	0	0	0	0	0	0	0	0
+PWY0-1296: purine ribonucleosides degradation|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	13.09668118	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY0-1296: purine ribonucleosides degradation|unclassified	0	0	95.27668688	0	0	9.386348012	110.2879331	0	0	0	0	6.110953219	0	0	0	0	0	0	8.600173185	0	0	0	0	0	0	0	0	0
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation	0	0	52.97117941	0	0	8.774935012	97.86113553	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY0-1297: superpathway of purine deoxyribonucleosides degradation|unclassified	0	0	52.97117941	0	0	8.774935012	93.549106	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation	0	0	39.71757119	0	0	0	88.22422595	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY0-1298: superpathway of pyrimidine deoxyribonucleosides degradation|unclassified	0	0	39.71757119	0	0	0	84.9278247	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY0-1319: CDP-diacylglycerol biosynthesis II	0	0	53.76539017	0	0	38.58216609	95.08009606	0	30.79290281	0	0	0	0	0	0	0	0	0	8.141374933	0	0	0	0	0	0	0	0	0
+PWY0-1319: CDP-diacylglycerol biosynthesis II|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	9.9206534	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY0-1319: CDP-diacylglycerol biosynthesis II|unclassified	0	0	53.76539017	0	0	38.58216609	85.47358824	0	30.79290281	0	0	0	0	0	0	0	0	0	8.141374933	0	0	0	0	0	0	0	0	0
+PWY0-1337: oleate &beta;-oxidation	0	0	0	0	0	0	51.71731551	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY0-1337: oleate &beta;-oxidation|unclassified	0	0	0	0	0	0	51.71731551	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY0-1477: ethanolamine utilization	0	0	71.29073647	0	0	15.16950325	86.43147433	0	0	0	0	0	0	0	0	0	9.994809219	0	7.067399786	0	0	0	0	0	0	0	0	0
+PWY0-1477: ethanolamine utilization|unclassified	0	0	71.29073647	0	0	15.16950325	86.43147433	0	0	0	0	0	0	0	0	0	9.994809219	0	7.067399786	0	0	0	0	0	0	0	0	0
+PWY0-1479: tRNA processing	0	0	15.74279045	0	0	26.89362575	92.72210187	0	10.51046055	0	0	0	0	0	0	9.523811215	18.10763022	0	0	0	0	0	0	0	0	0	0	0
+PWY0-1479: tRNA processing|unclassified	0	0	15.74279045	0	0	26.89362575	92.72210187	0	10.51046055	0	0	0	0	0	0	9.523811215	18.10763022	0	0	0	0	0	0	0	0	0	0	0
+PWY0-1533: methylphosphonate degradation I	0	0	0	0	0	0	15.47527231	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY0-1533: methylphosphonate degradation I|unclassified	0	0	0	0	0	0	15.47527231	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)	4.675001451	0	30.09851211	0	0	15.49101288	108.2112567	0	10.87606468	0	0	0	0	0	0	5.351124434	15.62438189	0	0	0	0	0	0	0	0	0	0	0
+PWY0-1586: peptidoglycan maturation (meso-diaminopimelate containing)|unclassified	4.675001451	0	30.09851211	0	0	15.49101288	108.2112567	0	10.87606468	0	0	0	0	0	0	5.351124434	15.62438189	0	0	0	0	0	0	0	0	0	0	0
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis	0	0	39.5430862	8.42408508	0	55.16198477	241.2853378	0	20.0755102	0	0	0	0	0	0	0	0	0	15.14953872	0	0	0	0	0	0	0	0	0
+PWY0-162: superpathway of pyrimidine ribonucleotides de novo biosynthesis|unclassified	0	0	39.5430862	8.42408508	0	55.16198477	238.3110094	0	20.0755102	0	0	0	0	0	0	0	0	0	15.14953872	0	0	0	0	0	0	0	0	0
+PWY0-166: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)	0	0	44.5481284	0	0	21.55678815	142.8129004	0	6.804884808	0	0	0	0	0	0	8.170058262	0	0	22.65339091	0	0	0	0	0	0	0	0	0
+PWY0-166: superpathway of pyrimidine deoxyribonucleotides de novo biosynthesis (E. coli)|unclassified	0	0	44.5481284	0	0	21.55678815	137.9904872	0	6.804884808	0	0	0	0	0	0	8.170058262	0	0	22.65339091	0	0	0	0	0	0	0	0	0
+"PWY0-301: L-ascorbate degradation I (bacterial, anaerobic)"	0	0	0	0	0	0	8.911228199	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY0-301: L-ascorbate degradation I (bacterial, anaerobic)|g__Cutibacterium.s__Cutibacterium_acnes"	0	0	0	0	0	0	8.020722088	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY0-42: 2-methylcitrate cycle I	0	0	26.41467563	0	11.39532177	0	54.23482411	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY0-42: 2-methylcitrate cycle I|unclassified	0	0	26.41467563	0	11.39532177	0	54.23482411	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY0-781: aspartate superpathway	0	0	34.13286486	0	0	0	129.19996	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY0-781: aspartate superpathway|unclassified	0	0	34.13286486	0	0	0	126.3749111	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage	0	0	0	0	0	0	41.00249701	0	0	0	0	0	0	0	0	0	6.646167084	0	0	0	0	0	0	0	0	0	0	0
+PWY0-845: superpathway of pyridoxal 5'-phosphate biosynthesis and salvage|unclassified	0	0	0	0	0	0	19.13852251	0	0	0	0	0	0	0	0	0	6.646167084	0	0	0	0	0	0	0	0	0	0	0
+PWY0-862: (5Z)-dodecenoate biosynthesis I	0	0	99.90576813	5.111155643	5.528280534	118.0279303	356.9428059	0	40.13702032	0	0	0	0	0	0	0	53.97226299	0	40.28529032	0	0	75.1098649	0	25.60224426	60.46175215	0	0	0
+PWY0-862: (5Z)-dodecenoate biosynthesis I|unclassified	0	0	99.90576813	5.111155643	5.528280534	118.0279303	355.129449	0	40.13702032	0	0	0	0	0	0	0	53.97226299	0	40.28529032	0	0	75.1098649	0	25.60224426	60.46175215	0	0	0
+PWY1ZNC-1: assimilatory sulfate reduction IV	0	0	24.6308223	0	6.711969493	69.7379993	207.0604095	0	15.18881643	0	0	0	0	0	0	0	0	0	17.06214869	0	0	0	0	0	0	0	0	0
+PWY1ZNC-1: assimilatory sulfate reduction IV|unclassified	0	0	24.6308223	0	6.711969493	69.7379993	207.0604095	0	15.18881643	0	0	0	0	0	0	0	0	0	17.06214869	0	0	0	0	0	0	0	0	0
+"PWY3DJ-35471: L-ascorbate biosynthesis IV (animals, D-glucuronate pathway)"	0	0	0	0	0	0	20.70684461	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"PWY3DJ-35471: L-ascorbate biosynthesis IV (animals, D-glucuronate pathway)|unclassified"	0	0	0	0	0	0	20.61866904	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY3O-4107: NAD salvage pathway V (PNC V cycle)	0	0	5.882795727	0	0	32.95082595	85.77693865	0	4.634516492	0	0	0	0	0	0	0	0	0	6.501457062	0	0	0	0	0	0	0	0	0
+PWY3O-4107: NAD salvage pathway V (PNC V cycle)|unclassified	0	0	5.882795727	0	0	32.95082595	84.95266944	0	4.634516492	0	0	0	0	0	0	0	0	0	6.501457062	0	0	0	0	0	0	0	0	0
+PWY490-3: nitrate reduction VI (assimilatory)	0	0	5.790588637	0	0	0	5.952446535	0	14.56968001	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY490-3: nitrate reduction VI (assimilatory)|unclassified	0	0	5.790588637	0	0	0	5.95165258	0	14.56968001	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY4FS-7: phosphatidylglycerol biosynthesis I (plastidic)	0	0	33.14565785	0	0	19.71764971	87.07640398	0	0	0	0	0	0	0	0	0	0	0	4.034080607	0	0	0	0	0	0	0	0	0
+PWY4FS-7: phosphatidylglycerol biosynthesis I (plastidic)|unclassified	0	0	33.14565785	0	0	19.71764971	81.29393563	0	0	0	0	0	0	0	0	0	0	0	4.034080607	0	0	0	0	0	0	0	0	0
+PWY4FS-8: phosphatidylglycerol biosynthesis II (non-plastidic)	0	0	33.14565785	0	0	19.71764971	86.40793897	0	0	0	0	0	0	0	0	0	0	0	4.034080607	0	0	0	0	0	0	0	0	0
+PWY4FS-8: phosphatidylglycerol biosynthesis II (non-plastidic)|unclassified	0	0	33.14565785	0	0	19.71764971	80.56960524	0	0	0	0	0	0	0	0	0	0	0	4.034080607	0	0	0	0	0	0	0	0	0
+PWY4LZ-257: superpathway of fermentation (Chlamydomonas reinhardtii)	0	0	0	0	0	17.21879791	42.5666093	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY4LZ-257: superpathway of fermentation (Chlamydomonas reinhardtii)|unclassified	0	0	0	0	0	17.21879791	42.5666093	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY5F9-12: biphenyl degradation	0	0	0	0	0	0	10.66144946	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY5F9-12: biphenyl degradation|unclassified	0	0	0	0	0	0	10.66144946	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY66-201: nicotine degradation IV	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40.58238541	0	0	117.3388065	0	0	0	0	0
+PWY66-201: nicotine degradation IV|unclassified	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	40.58238541	0	0	117.3388065	0	0	0	0	0
+PWY66-367: ketogenesis	0	7.797430669	0	0	0	0	61.70143709	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY66-367: ketogenesis|unclassified	0	7.797430669	0	0	0	0	61.70143709	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY66-389: phytol degradation	0	0	73.32351615	0	0	12.27469863	220.9122925	0	0	0	0	3.612956039	0	0	0	0	0	0	19.69607555	0	0	0	0	0	0	0	0	0
+PWY66-389: phytol degradation|unclassified	0	0	73.32351615	0	0	12.27469863	220.9122925	0	0	0	0	3.612956039	0	0	0	0	0	0	19.69607555	0	0	0	0	0	0	0	0	0
+PWY66-391: fatty acid &beta;-oxidation VI (mammalian peroxisome)	0	0	0	0	0	4.038104862	0	0	11.13012208	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY66-391: fatty acid &beta;-oxidation VI (mammalian peroxisome)|unclassified	0	0	0	0	0	4.038104862	0	0	11.13012208	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY66-398: TCA cycle III (animals)	0	0	0	0	0	0	145.5609915	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY66-398: TCA cycle III (animals)|unclassified	0	0	0	0	0	0	144.5860247	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY66-399: gluconeogenesis III	0	0	0	0	0	39.47013512	236.0905775	0	0	0	0	0	0	0	0	11.00250232	24.11672109	0	0	0	0	0	0	0	0	0	0	0
+PWY66-399: gluconeogenesis III|unclassified	0	0	0	0	0	39.47013512	220.2832164	0	0	0	0	0	0	0	0	11.00250232	24.11672109	0	0	0	0	0	0	0	0	0	0	0
+PWY66-409: superpathway of purine nucleotide salvage	0	0	59.49613377	0	0	23.1400189	166.5159951	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY66-409: superpathway of purine nucleotide salvage|unclassified	0	0	59.49613377	0	0	23.1400189	146.8066428	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PWY66-429: fatty acid biosynthesis initiation (mitochondria)	6.58016608	0	68.88041767	4.991477686	5.310269715	79.0840274	238.1972981	0	45.44112304	0	0	0	0	0	0	0	0	0	0	0	0	5.704360184	0	0	0	0	0	0
+PWY66-429: fatty acid biosynthesis initiation (mitochondria)|unclassified	6.58016608	0	68.88041767	4.991477686	5.310269715	79.0840274	238.1972981	0	45.44112304	0	0	0	0	0	0	0	0	0	0	0	0	5.704360184	0	0	0	0	0	0
+PYRIDNUCSAL-PWY: NAD salvage pathway I (PNC VI cycle)	0	0	7.375121289	0	0	18.08548161	40.22599564	0	5.052984005	0	0	0	0	0	0	0	0	0	7.754110648	0	0	0	0	0	0	0	0	0
+PYRIDNUCSAL-PWY: NAD salvage pathway I (PNC VI cycle)|unclassified	0	0	7.375121289	0	0	18.08548161	40.09567961	0	5.052984005	0	0	0	0	0	0	0	0	0	7.754110648	0	0	0	0	0	0	0	0	0
+PYRIDNUCSYN-PWY: NAD de novo biosynthesis I (from aspartate)	0	0	38.91538731	0	0	49.32564859	177.7321142	0	14.25339969	0	0	0	0	0	0	0	11.30080169	0	12.4778776	0	0	0	0	0	0	0	0	0
+PYRIDNUCSYN-PWY: NAD de novo biosynthesis I (from aspartate)|unclassified	0	0	38.91538731	0	0	49.32564859	177.7321142	0	14.25339969	0	0	0	0	0	0	0	11.30080169	0	12.4778776	0	0	0	0	0	0	0	0	0
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I	0	0	29.21422912	0	0	53.41568378	149.5108187	0	7.578228363	0	0	0	0	0	0	0	6.3775233	0	10.03480905	0	0	0	0	0	0	0	0	0
+PYRIDOXSYN-PWY: pyridoxal 5'-phosphate biosynthesis I|unclassified	0	0	29.21422912	0	0	53.41568378	77.28117498	0	7.578228363	0	0	0	0	0	0	0	6.3775233	0	10.03480905	0	0	0	0	0	0	0	0	0
+REDCITCYC: TCA cycle VI (Helicobacter)	0	0	43.52453449	0	0	9.368339327	66.50145878	0	0	0	0	0	0	0	0	0	0	0	8.125404832	0	0	0	0	0	0	0	0	0
+REDCITCYC: TCA cycle VI (Helicobacter)|unclassified	0	0	43.52453449	0	0	9.368339327	65.38362973	0	0	0	0	0	0	0	0	0	0	0	8.125404832	0	0	0	0	0	0	0	0	0
+RHAMCAT-PWY: L-rhamnose degradation I	0	0	0	0	0	0	10.46027425	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+RHAMCAT-PWY: L-rhamnose degradation I|unclassified	0	0	0	0	0	0	10.46027425	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)	0	0	36.20603661	0	0	21.17619372	84.29987143	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+RIBOSYN2-PWY: flavin biosynthesis I (bacteria and plants)|unclassified	0	0	36.20603661	0	0	21.17619372	77.14536223	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SALVADEHYPOX-PWY: adenosine nucleotides degradation II	0	0	9.889508293	2.140031678	3.935681574	13.19896804	54.92281245	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SALVADEHYPOX-PWY: adenosine nucleotides degradation II|unclassified	0	0	9.889508293	2.140031678	3.935681574	13.19896804	51.51712848	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I	0	0	63.56609003	6.910361648	0	99.03263517	278.2133081	0	50.21283541	8.105681732	0	5.950839494	5.468260954	0	0	0	10.59430322	0	17.18417687	0	0	0	0	0	13.31669542	0	0	0
+SER-GLYSYN-PWY: superpathway of L-serine and glycine biosynthesis I|unclassified	0	0	63.56609003	6.910361648	0	99.03263517	277.6715107	0	50.21283541	8.105681732	0	5.950839494	5.468260954	0	0	0	10.59430322	0	17.18417687	0	0	0	0	0	13.31669542	0	0	0
+SO4ASSIM-PWY: assimilatory sulfate reduction I	0	0	42.6912748	0	6.711969493	38.95937076	207.0604095	0	15.18881643	0	0	0	0	0	0	0	0	0	17.06214869	0	0	0	0	0	0	0	0	0
+SO4ASSIM-PWY: assimilatory sulfate reduction I|unclassified	0	0	42.6912748	0	6.711969493	38.95937076	207.0604095	0	15.18881643	0	0	0	0	0	0	0	0	0	17.06214869	0	0	0	0	0	0	0	0	0
+SUCSYN-PWY: sucrose biosynthesis I (from photosynthesis)	0	0	0	0	0	0	18.07517172	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SUCSYN-PWY: sucrose biosynthesis I (from photosynthesis)|unclassified	0	0	0	0	0	0	18.0248307	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SULFATE-CYS-PWY: superpathway of sulfate assimilation and cysteine biosynthesis	0	0	51.14000781	0	0	33.9625594	135.4681685	0	13.5045989	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+SULFATE-CYS-PWY: superpathway of sulfate assimilation and cysteine biosynthesis|unclassified	0	0	51.14000781	0	0	33.9625594	135.021861	0	13.5045989	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+TCA-GLYOX-BYPASS: superpathway of glyoxylate bypass and TCA	0	0	74.24584312	0	0	0	155.8378816	0	0	0	0	0	0	0	0	0	0	0	10.13859824	0	0	0	0	0	0	0	0	0
+TCA-GLYOX-BYPASS: superpathway of glyoxylate bypass and TCA|unclassified	0	0	74.24584312	0	0	0	154.9197381	0	0	0	0	0	0	0	0	0	0	0	10.13859824	0	0	0	0	0	0	0	0	0
+TCA: TCA cycle I (prokaryotic)	0	0	73.55711806	0	0	0	153.7516486	0	21.9545806	0	0	0	0	0	0	0	0	0	12.08494053	0	0	0	0	0	0	0	0	0
+TCA: TCA cycle I (prokaryotic)|unclassified	0	0	73.55711806	0	0	0	152.6360252	0	21.9545806	0	0	0	0	0	0	0	0	0	12.08494053	0	0	0	0	0	0	0	0	0
+THISYN-PWY: superpathway of thiamine diphosphate biosynthesis I	0	0	0	0	0	18.75963599	60.87710187	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+THISYN-PWY: superpathway of thiamine diphosphate biosynthesis I|unclassified	0	0	0	0	0	18.75963599	57.53210707	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+THISYNARA-PWY: superpathway of thiamine diphosphate biosynthesis III (eukaryotes)	0	0	0	0	0	0	16.67969023	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+THISYNARA-PWY: superpathway of thiamine diphosphate biosynthesis III (eukaryotes)|unclassified	0	0	0	0	0	0	16.60323174	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+THRESYN-PWY: superpathway of L-threonine biosynthesis	3.230131037	0	53.02614768	0	0	72.95934988	249.045197	0	30.53565775	0	0	0	0	0	0	0	0	0	28.3188173	0	0	0	0	0	0	0	0	0
+THRESYN-PWY: superpathway of L-threonine biosynthesis|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	9.561416025	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+THRESYN-PWY: superpathway of L-threonine biosynthesis|unclassified	3.230131037	0	53.02614768	0	0	72.95934988	237.2822879	0	30.53565775	0	0	0	0	0	0	0	0	0	28.3188173	0	0	0	0	0	0	0	0	0
+TRNA-CHARGING-PWY: tRNA charging	0	0	74.90951503	0	0	47.99381958	286.5673744	0	16.07983533	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+TRNA-CHARGING-PWY: tRNA charging|unclassified	0	0	74.90951503	0	0	47.99381958	277.1160921	0	16.07983533	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+TRPSYN-PWY: L-tryptophan biosynthesis	0	0	48.70129905	0	0	62.93236867	327.2237522	0	32.22278497	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+TRPSYN-PWY: L-tryptophan biosynthesis|unclassified	0	0	48.70129905	0	0	62.93236867	321.4768583	0	32.22278497	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+TYRFUMCAT-PWY: L-tyrosine degradation I	0	0	0	0	0	0	10.38234367	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+TYRFUMCAT-PWY: L-tyrosine degradation I|unclassified	0	0	0	0	0	0	10.38234367	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I	0	0	60.44497561	0	0	74.65014269	197.7033772	0	38.23171721	2.99275494	0	0	0	0	0	0	0	0	6.569317708	0	0	0	0	0	0	0	0	0
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	12.82824862	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+UDPNAGSYN-PWY: UDP-N-acetyl-D-glucosamine biosynthesis I|unclassified	0	0	60.44497561	0	0	74.65014269	183.5111962	0	38.23171721	2.99275494	0	0	0	0	0	0	0	0	6.569317708	0	0	0	0	0	0	0	0	0
+URSIN-PWY: ureide biosynthesis	0	0	0	0	0	0	43.53022669	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+URSIN-PWY: ureide biosynthesis|unclassified	0	0	0	0	0	0	43.26747797	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+VALSYN-PWY: L-valine biosynthesis	7.801619967	4.351109205	164.8148513	20.37002854	22.6836128	148.1807109	508.7557664	0	49.29609953	22.96883866	0	0	3.672076722	0	0	12.40644096	86.84140004	0	47.89712828	0	0	40.44342594	5.43625918	18.54619043	73.74340648	0	0	0
+VALSYN-PWY: L-valine biosynthesis|g__Cutibacterium.s__Cutibacterium_acnes	0	0	0	0	0	0	7.999178358	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+VALSYN-PWY: L-valine biosynthesis|unclassified	7.801619967	4.351109205	164.8148513	20.37002854	22.6836128	148.1807109	501.5113436	0	49.29609953	22.96883866	0	0	3.672076722	0	0	12.40644096	86.84140004	0	47.89712828	0	0	40.44342594	5.43625918	18.54619043	73.74340648	0	0	0
